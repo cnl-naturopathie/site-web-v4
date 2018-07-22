@@ -2,5 +2,5 @@
 
 ---
 
-<http://cnl-naturopathie.ch>
+<https://cnl-naturopathie.ch>
 
