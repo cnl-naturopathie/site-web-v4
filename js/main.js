@@ -83,7 +83,7 @@ function main() {
     $( "#testimonial" ).owlCarousel ({
       autoplay           : true  ,
       autoplayHoverPause : true  ,
-      autoplayTimeout    : 2500  ,
+      autoplayTimeout    : 10000 ,
       items              : 1     ,
       loop               : true  ,
       margin             : 10    ,
