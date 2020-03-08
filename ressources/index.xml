@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ressources on CNL-Naturopathie</title>
+    <link>https://cnl-naturopathie.ch/ressources/</link>
+    <description>Recent content in Ressources on CNL-Naturopathie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 14 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cnl-naturopathie.ch/ressources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sites d’intérêt</title>
+      <link>https://cnl-naturopathie.ch/ressources/sites-d-interet/</link>
+      <pubDate>Sat, 14 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnl-naturopathie.ch/ressources/sites-d-interet/</guid>
+      <description>EN CONSTRUCTION   </description>
+    </item>
+    
+    <item>
+      <title>Prévention pour l’hiver</title>
+      <link>https://cnl-naturopathie.ch/ressources/prevention-hiver/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnl-naturopathie.ch/ressources/prevention-hiver/</guid>
+      <description>Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste
+Rester en pleine forme toute la saison froide « Mieux vaut prévenir que guérir ». C’est le but de cet article. La santé n’est jamais acquise et doit être au centre de nos priorités. Nous ne sommes pas tous égaux vis-à-vis de la maladie, mais rien n’arrive par hasard, même quand nous « tombons » malades. La prévention des maux hivernaux se fait d’une manière globale.</description>
+    </item>
+    
+    <item>
+      <title>Coin lecture</title>
+      <link>https://cnl-naturopathie.ch/ressources/coin-lecture/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnl-naturopathie.ch/ressources/coin-lecture/</guid>
+      <description>Nutrition Le lait : une sacrée vacherie ?          La nutrithérapie : bases scientifiques et pratique médicale          L&amp;rsquo;Alimentation, ou la troisième médecine          L&amp;rsquo;index glycémique : un allié pour mieux manger          Je mange donc je maigris&amp;hellip; et je reste mince !</description>
+    </item>
+    
+    <item>
+      <title>Livre d’or</title>
+      <link>https://cnl-naturopathie.ch/ressources/livre-d-or/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnl-naturopathie.ch/ressources/livre-d-or/</guid>
+      <description>C’est avec enthousiasme que nous recommandons Mme Fabienne Jordan-Grossrieder. Cela fait maintenant plusieurs années que nous bénéficions de ses excellents soins.
+Grâce à sa gentillesse, à son professionnalisme, à la qualité de ses soins et à sa disponibilité, elle a su convaincre notre famille.
+C’est ainsi qu’elle prend en charge, épisodiquement ou de manière régulière, dix membres de la famille répartis sur trois générations&amp;hellip;
+Michel, Patricia, Caroline, Gabriel, Tabatha, &amp;amp; Co.</description>
+    </item>
+    
+  </channel>
+</rss>

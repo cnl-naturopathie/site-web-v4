@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cnl-naturopathie.ch/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://cnl-naturopathie.ch/ressources/sites-d-interet/</loc>
+    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/ressources/prevention-hiver/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/therapeutes/fabienne-jordan-grossrieder/</loc>
+    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/therapeutes/stephanie-vare/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/therapeutes/francois-bedert/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/ressources/coin-lecture/</loc>
+    <lastmod>2016-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/ressources/livre-d-or/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -182,33 +212,48 @@
   </url>
   
   <url>
-    <loc>https://cnl-naturopathie.ch/ressources/sites-d-interet/</loc>
+    <loc>https://cnl-naturopathie.ch/articles/</loc>
     <lastmod>2013-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cnl-naturopathie.ch/ressources/prevention-hiver/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cnl-naturopathie.ch/therapeutes/fabienne-jordan-grossrieder/</loc>
+    <loc>https://cnl-naturopathie.ch/</loc>
     <lastmod>2013-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cnl-naturopathie.ch/therapeutes/francois-bedert/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+    <loc>https://cnl-naturopathie.ch/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cnl-naturopathie.ch/ressources/coin-lecture/</loc>
-    <lastmod>2016-01-10T00:00:00+00:00</lastmod>
+    <loc>https://cnl-naturopathie.ch/draft/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cnl-naturopathie.ch/ressources/livre-d-or/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <loc>https://cnl-naturopathie.ch/ressources/</loc>
+    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/therapeutes/</loc>
+    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnl-naturopathie.ch/therapies/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
