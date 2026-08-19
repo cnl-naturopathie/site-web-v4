@@ -1,0 +1,27 @@
+theme: spirit8
+timeZone: Europe/Zurich
+locale: fr-CH
+title: CNL Naturopathie
+defaultContentLanguage: fr
+canonifyURLs: true
+disableRSS: true
+enableRobotsTXT: true
+publishDir: .hugo/public
+resourceDir: .hugo/resources
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  brand: CNL Naturopathie
+  homeLink: index.html
+  htmlLang: fr
+  description: CNL — Centre de Naturopathie Lausanne — Des solutions naturelles pour maintenir, améliorer ou recouvrer votre santé. Naturopathie, Nutrition & Soins thérapeutiques
+  keywords: naturopathie,Lausanne,Suisse,nutrition,soins thérapeutiques,sympathicothérapie,spagyrie,réflexologie,phytothérapie,médecine chinoise,massage thérapeutique,massage ayur­védique,hygiène vitale,homéopathie,endermologie,drainage lymphatique,biorésonnance MORA,veinologie,aroma­thérapie,migraines
+  author: Nicolas Jeanmonod
+  favicon: /img/favicon.ico
+  copyrightHTML: © CNL-Naturopathie Lausanne
+  webmasterHTML: <a href="https://jeanmonod.net/">Nicolas Jeanmonod</a>
+  themeCreditHTML: <a href="https://dribbble.com/shots/1907471-Freebie-Spirit8-HTML-Template">thème SPIRIT8 </a>

@@ -1,0 +1,32 @@
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			<div class="section-title center">
+				<h2>{{ hugo.Data.home.sections.contactHTML | safeHTML }}</h2>
+				<div class="line">
+					<hr>
+				</div>
+				<div class="clearfix"></div>
+				<div class="col-xs-12" style="padding-top: 30px; margin:30px 0;">
+						{{ range where site.RegularPages "Type" "therapeutes" }}
+						{{ $TRPT_IMG    := .Params.infos.image | printf "%simages/%s" .Permalink }}
+						<div class="col-xs-12 col-sm-12">
+							<p><b><a href="{{ .Params.infos.url }}">{{ .Params.infos.prenom }}<br>{{ .Params.infos.nom }}</a></b></p>
+							<p>
+							{{ range .Params.infos.specialites }}
+									<b>{{ .  | safeHTML }}</b><br>
+							{{ end }}
+							</p>
+							<p><small><em>{{ .Params.infos.detail }}</em></small></p>
+							<p><b>{{ .Params.infos.tel | safeHTML }}</b></p>
+							<p><b><i class="fa fa-angle-double-up"></i></b></p>
+						</div>
+						{{ end }}
+				</div>
+				<p>{{ hugo.Data.home.contact.addressHTML | safeHTML }}</p>
+				<p><a href="{{ hugo.Data.home.contact.websiteURL }}">{{ hugo.Data.home.contact.websiteLabel }}</a></p>
+				<p><a href="{{ hugo.Data.home.contact.directoryURL }}">{{ hugo.Data.home.contact.directoryLabel }}</a><br>{{ hugo.Data.home.contact.parking }}</p>
+			</div>
+		</div>
+	</div>
+</div>

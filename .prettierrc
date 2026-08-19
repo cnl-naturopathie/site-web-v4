@@ -1,0 +1,6 @@
+{
+  "printWidth": 1200,
+  "tabWidth": 8,
+  "useTabs": true,
+  "htmlWhitespaceSensitivity": "css"
+}

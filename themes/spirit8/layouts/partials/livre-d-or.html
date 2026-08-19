@@ -1,0 +1,22 @@
+<div class="container">
+	<a href="{{ hugo.Data.home.testimonials.url }}" style="color:inherit">
+		<div class="section-title center">
+			<h2>{{ hugo.Data.home.sections.testimonialsHTML | safeHTML }}</h2>
+			<div class="line">
+				<hr>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<div id="testimonial" class="owl-carousel owl-theme">
+					{{ range hugo.Data.home.testimonials.items }}
+					<div class="item">
+						<p class="testimonial-text">{{ .textHTML | safeHTML }}</p>
+						<p><strong>{{ .author }}</strong>, {{ .location }}</p>
+					</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</a>
+</div>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ site.Params.htmlLang | default site.Language.Locale | default "fr" }}">
+<head>
+	<!-- Basic Page Needs
+	================================================== -->
+	<meta charset="utf-8">
+	<meta name="generator-date" content="{{ now.Format "2006-01-02T15:04:05Z07:00" }}">
+	{{ `<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9"><![endif]-->` | safeHTML }}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ site.Title }}</title>
+	{{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+	{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+	<!-- Favicons
+	================================================== -->
+	{{ with site.Params.favicon }}<link rel="shortcut icon" type="image/x-icon" href="{{ . }}">{{ end }}
+<!--
+	<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="/img/apple-touch-icon-72x72.png"   sizes="72x72">
+	<link rel="apple-touch-icon" href="/img/apple-touch-icon-114x114.png" sizes="114x114">
+-->
+
+	<!-- Stylesheet
+	================================================== -->
+	{{ $styleVersion := os.ReadFile "themes/spirit8/static/css/style.css" | crypto.SHA256 }}
+	<link rel="stylesheet" href="/css/bootstrap.css">
+	<link rel="stylesheet" href="/css/style.css?v={{ $styleVersion }}">
+	<link rel="stylesheet" href="/css/responsive.css">
+	<link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.css">
+
+	<!-- Slider
+	================================================== -->
+	<link rel="stylesheet" media="screen" href="/css/owl.carousel.css">
+	<link rel="stylesheet" media="screen" href="/css/owl.theme.css">
+
+</head>
+<body>
+{{ partial "google-analytics.html" . }}

@@ -1,0 +1,5 @@
+.DS_Store
+.hugo/
+node_modules/
+.cache/
+.hugo_build.lock

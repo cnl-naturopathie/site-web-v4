@@ -1,0 +1,61 @@
+{{ partial "header.html" . }}
+
+{{ partial "nav.html" . }}
+
+<!-- Home Page
+==========================================-->
+<div id="tf-home" class="text-center">
+	<div>
+		{{ partial "titre.html" . }}
+	</div>
+</div>
+
+<!-- About Us Page
+==========================================-->
+<div id="tf-about">
+	{{ partial "a-propos.html" . }}
+</div>
+
+<!-- Team Page
+==========================================-->
+<div id="tf-team" class="text-center">
+	<div class="overlay">
+		{{ partial "therapeutes.html" . }}
+	</div>
+</div>
+
+<!-- Services Section
+==========================================-->
+<div id="tf-services" class="">
+	{{ partial "therapies.html" . }}
+</div>
+
+<!-- Clients Section
+==========================================-->
+<div id="tf-clients" class="text-center">
+	<div class="overlay">
+		{{ partial "ressources.html" . }}
+	</div>
+</div>
+
+<!-- Portfolio Section
+==========================================-->
+<div id="tf-works">
+	{{ partial "articles.html" . }}
+</div>
+
+<!-- Testimonials Section
+==========================================-->
+<div id="tf-testimonials" class="text-center">
+	<div class="overlay">
+		{{ partial "livre-d-or.html" . }}
+	</div>
+</div>
+
+<!-- Contact Section
+==========================================-->
+<div id="tf-contact" class="text-center">
+	{{ partial "contact.html" . }}
+</div>
+
+{{ partial "footer.html" . }}

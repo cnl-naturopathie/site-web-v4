@@ -1,0 +1,14 @@
+name = "Spirit8"
+license = "MIT"
+description = "Reusable Hugo adaptation of the Spirit8 one-page theme"
+tags = ["responsive", "one-page", "portfolio"]
+features = ["configurable navigation", "configurable homepage"]
+min_version = "0.165.0"
+
+[author]
+  name = "Nicolas Jeanmonod"
+  homepage = "https://jeanmonod.net/"
+
+[original]
+  name = "Spirit8"
+  homepage = "https://dribbble.com/shots/1907471-Freebie-Spirit8-HTML-Template"

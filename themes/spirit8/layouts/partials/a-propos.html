@@ -1,0 +1,25 @@
+<div class="container">
+	<div class="row">
+		<div class="col-xs-8 col-xs-offset-3 col-sm-4 col-sm-offset-2" style="margin-bottom: 60px;">
+			{{/* <!-- <img src="img/logo_naet.png" class="img-responsive" alt="logo NAET" width="200"> --> */}}
+		</div>
+		<div class="col-xs-12 col-sm-6">
+			<div class="about-text">
+				<div class="section-title">
+					<p class="about-eyebrow">{{ hugo.Data.home.about.eyebrow }}</p>
+					<h2>{{ hugo.Data.home.about.titleHTML | safeHTML }}</h2>
+					<hr>
+					<div class="clearfix"></div>
+				</div>
+				<p class="intro">{{ hugo.Data.home.about.intro }}</p>
+				<ul class="about-list">
+					{{ range hugo.Data.home.about.items }}
+					<li>
+						<span class="fa fa-dot-circle-o"></span> <strong>{{ . }}</strong>
+					</li>
+					{{ end }}
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>

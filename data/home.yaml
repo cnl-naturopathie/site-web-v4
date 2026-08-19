@@ -1,0 +1,53 @@
+hero:
+  titleHTML: Centre de <br><strong><span class="color">Naturopathie Lausanne</span></strong>
+  leadHTML: thérapies <strong>du corps et de l’esprit</strong>
+
+about:
+  eyebrow: Fabienne Grossrieder
+  titleHTML: vous souhaite la bienvenue au&nbsp;<strong>CNL</strong>
+  intro: Vous y découvrirez des solutions naturelles pour maintenir, améliorer ou recouvrer votre santé.
+  items:
+    - Naturopathie
+    - Nutrition
+    - Soins thérapeutiques
+    - Ostéopathie
+
+sections:
+  therapistsHTML: Les <strong>thérapeutes</strong>
+  therapiesHTML: Les <strong>thérapies</strong>
+  resourcesHTML: Les <strong>ressources</strong>
+  articlesHTML: Découvrez nos <strong>articles</strong>
+  testimonialsHTML: Livre <strong>d’or</strong>
+  contactHTML: Pour prendre <strong>contact</strong>
+
+quote:
+  titleHTML: La citation du <strong>Dalaï-Lama</strong>
+  textHTML: <span class="drop_cap">« C</span>e qui me surprend le plus dans l’humanité, ce sont les hommes eux-mêmes parce que d’abord ils perdent la santé pour accumuler de l’argent et ensuite ils perdent de l’argent pour retrouver la santé. Et à penser anxieusement au futur, ils oublient le présent de telle façon qu’ils finissent par vivre ni le présent, ni le futur. Ils vivent comme s’ils n’allaient jamais mourir et meurent comme s’ils n’avaient jamais vécu. »
+
+testimonials:
+  url: ressources/livre-d-or/
+  items:
+    - textHTML: Fabienne a toujours été là quand j’en ai eu besoin. En écoutant et appliquant ses conseils j’ai eu des résultats extraordinaires. Un grand merci !
+      author: Simon Olivetta
+      location: Vufflens-la-Ville
+    - textHTML: Je remercie vraiment Fabienne qui m’a écoutée, entendue, guidée, soutenue et qui m’a surtout permit d’aller beaucoup mieux.
+      author: Laure
+      location: Sion
+    - textHTML: Fidèle depuis 16 ans, je peux dire que du bien sur Fabienne. Merci beaucoup pour ton super travail !
+      author: Annette
+      location: Cugy
+    - textHTML: Une poigne de fer dans un gant de velours, sauf quand tu utilises ta “matraque” !<br>Sans toi, il y a déjà longtemps que mes bras auraient touché le sol à force d’avoir le dos bloqué.
+      author: Christine
+      location: Bioley-Orjulaz
+
+contact:
+  addressHTML: Ch. de la Côte 6<br> CH–1032 Romanel-s/Lausanne
+  websiteURL: https://cnl-naturopathie.ch/
+  websiteLabel: www.cnl-naturopathie.ch
+  directoryURL: https://www.local.ch/fr/d/romanel-sur-lausanne/1032/therapie-naturelle-naturopathie/jordan-grossrieder-fabienne-HzyBYlFlUe1I_scMFFsukg
+  directoryLabel: Le CNL sur local.ch
+  parking: Stationnement en face de la maison du ch. des Tilleuls n°16.
+
+notFound:
+  title: Désolé, la page demandée n’existe pas
+  returnLabel: Retourner à l’accueil

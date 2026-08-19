@@ -1,0 +1,122 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.165.0
+      PRODUCTION_CNAME: ${{ vars.PRODUCTION_CNAME }}
+      TZ: Europe/Zurich
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Create local tools directory
+        run: mkdir -p "${HOME}/.local/hugo"
+
+      - name: Install Hugo
+        run: |
+          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          tar -C "${HOME}/.local/hugo" -xf "${{ runner.temp }}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
+
+      - name: Restore Hugo cache
+        id: cache-restore
+        uses: actions/cache/restore@v6
+        with:
+          path: ${{ runner.temp }}/.cache/hugo
+          key: hugo-${{ github.run_id }}
+          restore-keys: hugo-
+
+      - name: Select deployment environment
+        id: deployment-environment
+        run: |
+          if [[ -n "${PRODUCTION_CNAME}" ]]; then
+            echo "hugo_environment=production" >> "${GITHUB_OUTPUT}"
+            echo "base_url=https://${PRODUCTION_CNAME}/" >> "${GITHUB_OUTPUT}"
+          else
+            echo "hugo_environment=staging" >> "${GITHUB_OUTPUT}"
+            echo "base_url=${{ steps.pages.outputs.base_url }}/" >> "${GITHUB_OUTPUT}"
+          fi
+
+      - name: Build
+        run: |
+          hugo build \
+            --environment "${{ steps.deployment-environment.outputs.hugo_environment }}" \
+            --gc \
+            --baseURL "${{ steps.deployment-environment.outputs.base_url }}" \
+            --cacheDir "${{ runner.temp }}/.cache/hugo"
+
+      - name: Generate production CNAME
+        if: env.PRODUCTION_CNAME != ''
+        run: printf '%s\n' "${PRODUCTION_CNAME}" > .hugo/public/CNAME
+
+      - name: Format generated HTML
+        run: npm run format:html
+
+      - name: Check output
+        run: |
+          test -d .hugo/public
+          test -f .hugo/public/index.html
+          if [[ -n "${PRODUCTION_CNAME}" ]]; then
+            test "$(cat .hugo/public/CNAME)" = "${PRODUCTION_CNAME}"
+          else
+            test ! -e .hugo/public/CNAME
+          fi
+
+      - name: Save Hugo cache
+        uses: actions/cache/save@v6
+        with:
+          path: ${{ runner.temp }}/.cache/hugo
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          include-hidden-files: false
+          path: ./.hugo/public
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

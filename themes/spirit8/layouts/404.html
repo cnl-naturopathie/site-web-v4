@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+<section id="feature" class="transparent-bg">
+	<div class="container" style="text-align:center; margin-top:100px;">
+		<h1>{{ site.Params.brand | default site.Title }}</h1>
+		<h2 style="margin-top:20px;">{{ hugo.Data.home.notFound.title }}</h2>
+		<p style="margin-top:20px;"><a href="{{ site.Home.RelPermalink }}">{{ hugo.Data.home.notFound.returnLabel }}</a></p>
+	</div>
+</section>
+<script>
+	t1 = window.setTimeout( function(){ window.location = "/"; }, 3000 );
+</script>
+{{ if templates.Exists "partials/cloudflare-analytics.html" }}
+	{{ partial "cloudflare-analytics.html" . }}
+{{ end }}
+</body>
+</html>

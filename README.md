@@ -1,6 +1,3 @@
-# site-web-v4
-
----
+# CNL-NATUROPATHIE
 
 <https://cnl-naturopathie.ch>
-
