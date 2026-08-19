@@ -40,15 +40,12 @@ Fabienne Grossrieder a eu la chance de travailler et collaborer avec Roland Carr
 <li><a href="/therapies/sympathicotherapie/"   >Sympathicothérapie</a></li>
 <li><a href="/therapies/veinologie/"           >Veinologie</a></li>
 <li><a href="/therapies/massage-therapeutique/">Massage thérapeutique – vertébrologie</a></li>
-<li><a href="/therapies/massage-ayurvedique/"  >Massage ayurvédique</a></li>
 <li><a href="/articles/allergie/"              >Traitement des allergies, méthode NAET</a></li>
 <li><a href="/therapies/reflexologie/"         >Réflexologie podale</a></li>
 <li><a href="/therapies/drainage/"             >Drainage lymphatique</a></li>
 <li><a href="/therapies/bioresonnance-mora/"   >Biorésonnance avec appareil MORA</a></li>
 </ul>
 </div>
-
-
 
 <!--
 
