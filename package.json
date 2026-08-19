@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "format:html": "prettier --ignore-path .prettierignore --write \".hugo/public/**/*.html\""
+    "format:html": "prettier --ignore-path .prettierignore --write \".hugo/public/**/*.html\" && node scripts/remove-html5-void-element-slashes.mjs"
   },
   "devDependencies": {
     "prettier": "^3.9.6"
