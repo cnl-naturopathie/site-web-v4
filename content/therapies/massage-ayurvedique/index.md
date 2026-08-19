@@ -5,6 +5,7 @@ thumbnail:
     desc: Massage ayurvédique
     image: feature.jpg
     therapeute: Fabienne
+draft: true
 ---
 
 <div style="margin: 20px 0 40px">

@@ -2,7 +2,7 @@ main:
   - name: Bienvenue
     url: "#tf-home"
     weight: 10
-  - name: Thérapeutes
+  - name: Thérapeute
     url: "#tf-team"
     weight: 20
   - name: Thérapies

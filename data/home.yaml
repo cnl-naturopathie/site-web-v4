@@ -10,10 +10,8 @@ about:
     - Naturopathie
     - Nutrition
     - Soins thérapeutiques
-    - Ostéopathie
-
 sections:
-  therapistsHTML: Les <strong>thérapeutes</strong>
+  therapistsHTML: Votre <strong>thérapeute</strong>
   therapiesHTML: Les <strong>thérapies</strong>
   resourcesHTML: Les <strong>ressources</strong>
   articlesHTML: Découvrez nos <strong>articles</strong>

@@ -6,6 +6,7 @@ thumbnail:
     desc: Ostéopathie
     image: feature.jpg
     therapeute: Francois
+draft: true
 ---
 
 L’ostéopathie est un système de soins basé sur des techniques de manipulations douces, appliquées au niveau musculaire, vertébral, crânien, thoraco-abdomino-pelvien, ainsi que sur les membres.
