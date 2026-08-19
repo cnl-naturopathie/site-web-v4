@@ -7,6 +7,21 @@ thumbnail:
     desc: Coin lecture
     image: feature.jpg
 ---
+
+<!--
+
+###
+#
+#
+# NE PAS MODIFIER CE FICHIER À LA MAIN !
+# UTILISER LE SCRIPT PYTHON :
+# scripts/maintenance/coin-lecture.py
+#
+#
+##
+
+-->
+
 <h2>Nutrition</h2>
 <div class="row">
 <div class="col-xs-6 col-sm-4 col-md-3">

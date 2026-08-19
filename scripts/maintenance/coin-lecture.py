@@ -82,6 +82,21 @@ thumbnail:
     desc: Coin lecture
     image: feature.jpg
 ---
+
+<!--
+
+###
+#
+#
+# NE PAS MODIFIER CE FICHIER À LA MAIN !
+# UTILISER LE SCRIPT PYTHON :
+# scripts/maintenance/coin-lecture.py
+#
+#
+##
+
+-->
+
 """
 
 OUTPUT_FILE = (
