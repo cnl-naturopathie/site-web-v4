@@ -38,11 +38,11 @@ Vous êtes les bienvenus et vous trouverez de plus amples explications sur mon 
 &nbsp;
 
 <p style="text-align: center;">
-<a title="anges.ch" href="http://anges.ch">anges.ch</a>
+<a title="anges.ch" href="https://anges.ch">anges.ch</a>
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-<a href="http://anges.ch"><img class="aligncenter" src="./images/feuille_martine_bergamin-150x150.png" alt="feuille_martine_bergamin" width="150" height="150"><br> Martine Bergamin</a>
+<a href="https://anges.ch"><img class="aligncenter" src="./images/feuille_martine_bergamin-150x150.png" alt="feuille_martine_bergamin" width="150" height="150"><br> Martine Bergamin</a>
 </p>

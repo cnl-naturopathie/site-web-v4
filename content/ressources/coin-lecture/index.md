@@ -192,14 +192,14 @@ thumbnail:
 <div class="col-xs-6 col-sm-4 col-md-3">
     <div class="portfolio-item">
         <div class="hover-bg">
-            <a title="L’énergie du cru : Mettez 75 % de cru dans votre assiette et de la vie dans votre corps !" href="https://www.amazon.fr/dp/2883533210/">
+            <a title="L’énergie du cru : Mettez 75 % de cru dans votre assiette et de la vie dans votre corps !" href="https://www.amazon.fr/dp/2883533210/">
                 <div class="hover-text">
-                    <h3>L’énergie du cru : Mettez 75 % de cru dans votre assiette et de la vie dans votre corps !</h3>
+                    <h3>L’énergie du cru : Mettez 75 % de cru dans votre assiette et de la vie dans votre corps !</h3>
                     <small>de Leslie Kenton (Auteur), Susannah Kenton (Auteur), Karen Vago (Traduction)</small>
                     <div class="clearfix"></div>
                     <i class="fa fa-plus"></i>
                 </div>
-                <img src="./images/51hcyuI787L.jpg" class="img-responsive" alt="L’énergie du cru : Mettez 75 % de cru dans votre assiette et de la vie dans votre corps !">
+                <img src="./images/51hcyuI787L.jpg" class="img-responsive" alt="L’énergie du cru : Mettez 75 % de cru dans votre assiette et de la vie dans votre corps !">
             </a>
         </div>
     </div>

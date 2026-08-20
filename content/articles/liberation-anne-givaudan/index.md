@@ -5,6 +5,7 @@ date: 2013-12-14
 thumbnail:
     desc: Libération
     image: feature.jpg
+draft: false
 ---
 
 <h2>Le détachement</h2>
@@ -83,5 +84,5 @@ A présent, vous allez chercher un vêtement provisoire dans un arbre qui vous s
 <p>Lausanne, 30 octobre 2008</p>
 
 &nbsp;
-<p style="text-align: center;"><a href="http://anges.ch/"><img src="./images/feuille_martine_bergamin-150x150.png" alt="feuille_martine_bergamin" width="150" height="150"><br>
+<p style="text-align: center;"><a href="https://anges.ch/"><img src="./images/feuille_martine_bergamin-150x150.png" alt="feuille_martine_bergamin" width="150" height="150"><br>
 Martine Bergamin</a></p>
