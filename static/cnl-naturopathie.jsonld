@@ -1,0 +1,186 @@
+{
+    "@context": "https://schema.org",
+    "@type": ["HealthAndBeautyBusiness", "LocalBusiness"],
+    "@id": "https://cnl-naturopathie.ch/#centre",
+    "name": "Centre de Naturopathie Lausanne",
+    "alternateName": "CNL Naturopathie",
+    "url": "https://cnl-naturopathie.ch/",
+    "description": "Centre de Naturopathie Lausanne — Des solutions naturelles pour maintenir, améliorer ou recouvrer votre santé. Naturopathie, nutrition et soins thérapeutiques.",
+    "logo": "https://cnl-naturopathie.ch/img/logo-cnl.png",
+    "image": "https://cnl-naturopathie.ch/img/logo-cnl.png",
+    "telephone": "+41788224838",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Chemin de la Côte 6",
+        "addressLocality": "Romanel-sur-Lausanne",
+        "postalCode": "1032",
+        "addressCountry": "CH"
+    },
+    "areaServed": "Lausanne et environs, Suisse",
+    "priceRange": null,
+    "geo": null,
+    "openingHoursSpecification": null,
+    "employee": {
+        "@type": "Person",
+        "name": "Fabienne Grossrieder",
+        "jobTitle": "Naturopathe avec diplôme fédéral en médecine naturelle traditionnelle européenne et nutritionniste",
+        "telephone": "+41788224838",
+        "url": "https://cnl-naturopathie.ch/therapeutes/fabienne-grossrieder/"
+    },
+    "makesOffer": [
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/aromatherapie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Aromathérapie",
+                "description": "Domaine de la phytothérapie qui utilise les substances aromatiques végétales, appelées huiles essentielles, dans un but thérapeutique."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/bioresonnance-mora/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Biorésonnance avec appareil MORA",
+                "description": "Technique de biophysique médicale fondée sur l’utilisation et la correction des oscillations électromagnétiques captées sur les méridiens et les points d’acupuncture."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/drainage/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Drainage lymphatique Vodder",
+                "description": "Massage très doux visant à travailler sur le réseau lymphatique afin de désintoxiquer et de régénérer les tissus, d’éliminer les stases et d’améliorer l’hydratation des cellules."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/endermologie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Endermologie",
+                "description": "Technique non chirurgicale pratiquée avec un appareil CELLU M6 afin de manipuler en douceur les tissus cutanés et sous-cutanés."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/homeopathie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Homéopathie",
+                "description": "Méthode thérapeutique fondée sur le principe de similitude et utilisant des préparations obtenues à partir de substances minérales, végétales ou animales."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/hygiene-vitale/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Hygiène vitale",
+                "description": "Ensemble de moyens et de pratiques visant à aider la personne à vivre harmonieusement, physiquement et psychiquement, dans son environnement."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/massage-therapeutique/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Massage thérapeutique aux huiles essentielles",
+                "description": "Massage associant les effets du toucher aux propriétés des huiles essentielles afin de favoriser la détente et de libérer les tensions."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/medecine-chinoise/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Médecine traditionnelle chinoise",
+                "description": "Approche traditionnelle fondée notamment sur la circulation de l’énergie, les rythmes naturels et l’équilibre entre le Yin et le Yang."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/naturopathie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Naturopathie",
+                "description": "Ensemble de méthodes et de techniques qui recherche les causes essentielles des troubles et vise à rétablir ou à conserver la santé par des moyens naturels."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/phytotherapie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Phytothérapie",
+                "description": "Méthode thérapeutique préventive et curative qui utilise les plantes sous différentes formes, notamment en tisanes, teintures mères et macérats glycérinés."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/reflexologie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Réflexologie podale",
+                "description": "Approche fondée sur la stimulation de zones réflexes des pieds et des mains correspondant à des organes, des glandes ou des structures du corps."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/spagyrie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Spagyrie",
+                "description": "Approche issue de la tradition de la médecine alchimique qui réunit les aspects essentiels des plantes médicinales sous une forme destinée à être assimilée de façon optimale."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/sympathicotherapie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Sympathicothérapie",
+                "description": "Technique utilisant les zones réflexes endonasales dans un but thérapeutique et s’apparentant à d’autres méthodes réflexogènes."
+            }
+        },
+        {
+            "@type": "Offer",
+            "price": null,
+            "priceCurrency": "CHF",
+            "url": "https://cnl-naturopathie.ch/therapies/veinologie/",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Veinologie",
+                "description": "Méthode thérapeutique globale destinée à traiter les troubles liés à l’insuffisance veineuse et lymphatique."
+            }
+        }
+    ]
+}
