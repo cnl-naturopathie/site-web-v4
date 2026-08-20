@@ -23,7 +23,7 @@
 
 	<!-- Stylesheet
 	================================================== -->
-	{{ $styleVersion := os.ReadFile "themes/spirit8/static/css/style.css" | crypto.SHA256 }}
+	{{ $styleVersion := os.ReadFile "themes/cnl-spirit/static/css/style.css" | crypto.SHA256 }}
 	<link rel="stylesheet" href="/css/bootstrap.css">
 	<link rel="stylesheet" href="/css/style.css?v={{ $styleVersion }}">
 	<link rel="stylesheet" href="/css/responsive.css">

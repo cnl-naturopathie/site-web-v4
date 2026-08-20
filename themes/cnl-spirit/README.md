@@ -1,6 +1,6 @@
-# Thème Hugo Spirit8
+# Thème Hugo CNL Spirit
 
-Cette adaptation conserve la présentation du thème Spirit8 tout en séparant les données propres à chaque site.
+Le thème CNL Spirit conserve la présentation du thème Spirit8 tout en séparant les données propres à chaque site.
 
 ## Dépendances attendues
 

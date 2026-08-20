@@ -1,6 +1,6 @@
-name = "Spirit8"
+name = "CNL Spirit"
 license = "MIT"
-description = "Reusable Hugo adaptation of the Spirit8 one-page theme"
+description = "CNL adaptation of the Spirit8 one-page theme"
 tags = ["responsive", "one-page", "portfolio"]
 features = ["configurable navigation", "configurable homepage"]
 min_version = "0.165.0"
