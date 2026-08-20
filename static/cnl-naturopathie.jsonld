@@ -40,6 +40,7 @@
         "@id": "https://cnl-naturopathie.ch/#fabienne-grossrieder",
         "name": "Fabienne Grossrieder",
         "jobTitle": "Naturopathe avec diplôme fédéral en médecine naturelle traditionnelle européenne et nutritionniste",
+        "knowsLanguage": ["fr", "en"],
         "telephone": "+41788224838",
         "url": "https://cnl-naturopathie.ch/therapeutes/fabienne-grossrieder/",
         "hasCertification": [
