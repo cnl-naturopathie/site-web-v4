@@ -18,14 +18,53 @@
     },
     "areaServed": "Lausanne et environs, Suisse",
     "priceRange": null,
-    "geo": null,
-    "openingHoursSpecification": null,
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "46.5609024",
+        "longitude": "6.6078589"
+    },
+    "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "18:00"
+    },
     "employee": {
         "@type": "Person",
+        "@id": "https://cnl-naturopathie.ch/#fabienne-grossrieder",
         "name": "Fabienne Grossrieder",
         "jobTitle": "Naturopathe avec diplôme fédéral en médecine naturelle traditionnelle européenne et nutritionniste",
         "telephone": "+41788224838",
-        "url": "https://cnl-naturopathie.ch/therapeutes/fabienne-grossrieder/"
+        "url": "https://cnl-naturopathie.ch/therapeutes/fabienne-grossrieder/",
+        "hasCertification": [
+            {
+                "@type": "Certification",
+                "name": "Label de qualité ASCA",
+                "url": "https://asca.ch/therapeutes-asca/detail-du-therapeute/Fabienne-Grossrieder_605587/",
+                "issuedBy": {
+                    "@type": "Organization",
+                    "name": "Fondation suisse pour les médecines complémentaires ASCA",
+                    "url": "https://asca.ch/"
+                }
+            },
+            {
+                "@type": "Certification",
+                "name": "Label de qualité RME",
+                "url": "https://emr.ch/fr/therapeute/fabienne.grossrieder",
+                "certificationIdentification": "X262462",
+                "issuedBy": {
+                    "@type": "Organization",
+                    "name": "Registre de Médecine Empirique RME",
+                    "url": "https://emr.ch/"
+                }
+            }
+        ]
     },
     "makesOffer": [
         {
@@ -36,7 +75,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Aromathérapie",
-                "description": "Domaine de la phytothérapie qui utilise les substances aromatiques végétales, appelées huiles essentielles, dans un but thérapeutique."
+                "description": "Domaine de la phytothérapie qui utilise les substances aromatiques végétales, appelées huiles essentielles, dans un but thérapeutique.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -47,7 +91,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Biorésonnance avec appareil MORA",
-                "description": "Technique de biophysique médicale fondée sur l’utilisation et la correction des oscillations électromagnétiques captées sur les méridiens et les points d’acupuncture."
+                "description": "Technique de biophysique médicale fondée sur l’utilisation et la correction des oscillations électromagnétiques captées sur les méridiens et les points d’acupuncture.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -58,7 +107,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Drainage lymphatique Vodder",
-                "description": "Massage très doux visant à travailler sur le réseau lymphatique afin de désintoxiquer et de régénérer les tissus, d’éliminer les stases et d’améliorer l’hydratation des cellules."
+                "description": "Massage très doux visant à travailler sur le réseau lymphatique afin de désintoxiquer et de régénérer les tissus, d’éliminer les stases et d’améliorer l’hydratation des cellules.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -69,7 +123,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Endermologie",
-                "description": "Technique non chirurgicale pratiquée avec un appareil CELLU M6 afin de manipuler en douceur les tissus cutanés et sous-cutanés."
+                "description": "Technique non chirurgicale pratiquée avec un appareil CELLU M6 afin de manipuler en douceur les tissus cutanés et sous-cutanés.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -80,7 +139,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Homéopathie",
-                "description": "Méthode thérapeutique fondée sur le principe de similitude et utilisant des préparations obtenues à partir de substances minérales, végétales ou animales."
+                "description": "Méthode thérapeutique fondée sur le principe de similitude et utilisant des préparations obtenues à partir de substances minérales, végétales ou animales.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -91,7 +155,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Hygiène vitale",
-                "description": "Ensemble de moyens et de pratiques visant à aider la personne à vivre harmonieusement, physiquement et psychiquement, dans son environnement."
+                "description": "Ensemble de moyens et de pratiques visant à aider la personne à vivre harmonieusement, physiquement et psychiquement, dans son environnement.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -102,7 +171,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Massage thérapeutique aux huiles essentielles",
-                "description": "Massage associant les effets du toucher aux propriétés des huiles essentielles afin de favoriser la détente et de libérer les tensions."
+                "description": "Massage associant les effets du toucher aux propriétés des huiles essentielles afin de favoriser la détente et de libérer les tensions.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -113,7 +187,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Médecine traditionnelle chinoise",
-                "description": "Approche traditionnelle fondée notamment sur la circulation de l’énergie, les rythmes naturels et l’équilibre entre le Yin et le Yang."
+                "description": "Approche traditionnelle fondée notamment sur la circulation de l’énergie, les rythmes naturels et l’équilibre entre le Yin et le Yang.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -124,7 +203,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Naturopathie",
-                "description": "Ensemble de méthodes et de techniques qui recherche les causes essentielles des troubles et vise à rétablir ou à conserver la santé par des moyens naturels."
+                "description": "Ensemble de méthodes et de techniques qui recherche les causes essentielles des troubles et vise à rétablir ou à conserver la santé par des moyens naturels.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -135,7 +219,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Phytothérapie",
-                "description": "Méthode thérapeutique préventive et curative qui utilise les plantes sous différentes formes, notamment en tisanes, teintures mères et macérats glycérinés."
+                "description": "Méthode thérapeutique préventive et curative qui utilise les plantes sous différentes formes, notamment en tisanes, teintures mères et macérats glycérinés.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -146,7 +235,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Réflexologie podale",
-                "description": "Approche fondée sur la stimulation de zones réflexes des pieds et des mains correspondant à des organes, des glandes ou des structures du corps."
+                "description": "Approche fondée sur la stimulation de zones réflexes des pieds et des mains correspondant à des organes, des glandes ou des structures du corps.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -157,7 +251,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Spagyrie",
-                "description": "Approche issue de la tradition de la médecine alchimique qui réunit les aspects essentiels des plantes médicinales sous une forme destinée à être assimilée de façon optimale."
+                "description": "Approche issue de la tradition de la médecine alchimique qui réunit les aspects essentiels des plantes médicinales sous une forme destinée à être assimilée de façon optimale.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -168,7 +267,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Sympathicothérapie",
-                "description": "Technique utilisant les zones réflexes endonasales dans un but thérapeutique et s’apparentant à d’autres méthodes réflexogènes."
+                "description": "Technique utilisant les zones réflexes endonasales dans un but thérapeutique et s’apparentant à d’autres méthodes réflexogènes.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         },
         {
@@ -179,7 +283,12 @@
             "itemOffered": {
                 "@type": "Service",
                 "name": "Veinologie",
-                "description": "Méthode thérapeutique globale destinée à traiter les troubles liés à l’insuffisance veineuse et lymphatique."
+                "description": "Méthode thérapeutique globale destinée à traiter les troubles liés à l’insuffisance veineuse et lymphatique.",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "duration",
+                    "value": "PT1H00M"
+                }
             }
         }
     ]
