@@ -24,16 +24,16 @@ C’est une méthode qui permet d’identifier les ennuis de santé en les visua
 &nbsp;
 
 <div class="row row-xs-12" style="background-color: black; padding-top: 30px; margin:0;">
-	<div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
-		<img alt="oeil1_b" src="images/oeil1_b.jpg" width="80" height="55">
-	</div>
-	<div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
-		<img alt="oeil2_b" src="images/oeil2_b.jpg" width="80" height="55">
-	</div>
-	<div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
-		<img alt="oeil3_b" src="images/oeil3_b.jpg" width="80" height="55">
-	</div>
-	<div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
-		<img alt="oeil4_b" src="images/oeil4_b.jpg" width="80" height="55">
-	</div>
+    <div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
+        <img alt="oeil1_b" src="images/oeil1_b.jpg" width="80" height="55">
+    </div>
+    <div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
+        <img alt="oeil2_b" src="images/oeil2_b.jpg" width="80" height="55">
+    </div>
+    <div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
+        <img alt="oeil3_b" src="images/oeil3_b.jpg" width="80" height="55">
+    </div>
+    <div class="col-xs-12 col-sm-2 col-sm-push-2" style="text-align:center; margin-bottom:30px">
+        <img alt="oeil4_b" src="images/oeil4_b.jpg" width="80" height="55">
+    </div>
 </div>

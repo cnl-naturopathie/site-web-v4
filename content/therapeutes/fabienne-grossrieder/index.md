@@ -18,7 +18,7 @@ aliases:
     - /therapeutes/fabienne-jordan-grossrieder/
 ---
 
-**Fabienne Grossrieder a le plaisir de vous accueillir sur le site du Centre de Naturopathie Lausanne**
+> **_Fabienne Grossrieder a le plaisir de vous accueillir sur le site du Centre de Naturopathie Lausanne_**
 
 <img class="alignright size-full wp-image-298" alt="Photo_Fabienne" src="./images/fabienne-grossrieder-005-200x273.jpg" width="200">Vous y découvrirez des solutions naturelles pour maintenir, améliorer ou recouvrer votre santé.
 Fabienne Grossrieder, naturopathe et nutritionniste diplômée, pratique depuis 1993 les médecines complémentaires et exerce comme indépendante depuis 1999. Son expérience et les formations continues qu’elle suit régulièrement lui permettent d’avoir une palette d’outils qu’elle peut utiliser en fonction des besoins de chacun et dans des domaines aussi vastes que les troubles digestifs, les allergies, les maux de dos, les migraines, les maladies chroniques, etc. Elle donne également régulièrement des conférences sur la prévention des maladies hivernales et les problèmes féminins.
@@ -29,38 +29,17 @@ Fabienne Grossrieder a eu la chance de travailler et collaborer avec Roland Carr
 
 ## Pratiques
 
-<div class="columns2">
-<ul>
-<li><a href="javascript:void(0);"              >Bilan de santé</a></li>
-<li><a href="/therapies/naturopathie/"         >Naturopathie</a></li>
-<li><a href="/therapies/hygiene-vitale/"       >Nutrition – Hygiène de vie</a></li>
-<li><a href="/therapies/phytotherapie/"        >Phytothérapie</a></li>
-<li><a href="/therapies/aromatherapie/"        >Aromathérapie</a></li>
-<li><a href="/therapies/spagyrie/"             >Spagyrie</a></li>
-<li><a href="/therapies/sympathicotherapie/"   >Sympathicothérapie</a></li>
-<li><a href="/therapies/veinologie/"           >Veinologie</a></li>
-<li><a href="/therapies/massage-therapeutique/">Massage thérapeutique – vertébrologie</a></li>
-<li><a href="/articles/allergie/"              >Traitement des allergies, méthode NAET</a></li>
-<li><a href="/therapies/reflexologie/"         >Réflexologie podale</a></li>
-<li><a href="/therapies/drainage/"             >Drainage lymphatique</a></li>
-<li><a href="/therapies/bioresonnance-mora/"   >Biorésonnance avec appareil MORA</a></li>
-</ul>
-</div>
-
-<!--
-
-<div class="row">
-<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0" style="margin-top: 80px;">
-<img alt="cabinet CNL" src="./images/cabinet-cnl-002.jpg">
-</div>
-
-<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0" style="margin-top: 80px;">
-<img alt="cabinet CNL" src="./images/cabinet-cnl-001.jpg">
-</div>
-
-<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0" style="margin-top: 80px;">
-<img alt="cabinet CNL" src="./images/cabinet-cnl-003.jpg">
-</div>
-</div>
-
--->
+-   [Bilan de santé](.)
+-   [Naturopathie](/therapies/naturopathie/)
+-   [Nutrition – Hygiène de vie](/therapies/hygiene-vitale/)
+-   [Phytothérapie](/therapies/phytotherapie/)
+-   [Aromathérapie](/therapies/aromatherapie/)
+-   [Spagyrie](/therapies/spagyrie/)
+-   [Sympathicothérapie](/therapies/sympathicotherapie/)
+-   [Veinologie](/therapies/veinologie/)
+-   [Massage thérapeutique – vertébrologie](/therapies/massage-therapeutique/)
+-   [Traitement des allergies, méthode NAET](/articles/allergie/)
+-   [Réflexologie podale](/therapies/reflexologie/)
+-   [Drainage lymphatique](/therapies/drainage/)
+-   [Biorésonnance avec appareil MORA](/therapies/bioresonnance-mora/)
+{.columns2}

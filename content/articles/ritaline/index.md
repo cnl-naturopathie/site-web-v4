@@ -7,26 +7,26 @@ thumbnail:
     image: feature.jpg
 ---
 
-**LA RITALINE**
+## LA RITALINE
 
 Une drogue sur ordonnance !
 
 L’hyperactivité et le déficit d’attention se rencontrent partout dans le monde et dans toutes les classes sociales. Par quel phénomène ? On estime aujourd’hui qu’environ de 10 % des enfants d’âge scolaire en sont affectés, avec une prépondérance chez les garçons, avec les signes suivants :
 
-  * Agite souvent ses mains et ses pieds ou se tortille sur sa chaise.
-  * À du mal à rester assis, se lève souvent de son siège même en classe.
-  * À des difficultés à entreprendre tranquillement des activités de loisir.
-  * Est très impulsif, grossier et même violent.
-  * Parle souvent de façon excessive.
-  * Se précipite souvent pour répondre aux questions sans attendre qu’on ait finit de les poser.
-  * À du mal à attendre son tour.
-  * Interrompt souvent autrui ou impose sa présence.
-  * Manque souvent de précision ou fait preuve de négligence pour son travail scolaire.
-  * Ne voit pas les détails ; difficulté à se concentrer.
-  * À du mal à obéir.
-  * Est facilement distrait par des stimuli externes.
-  * Est souvent intolérant et n’est jamais content
-  * …
+-   Agite souvent ses mains et ses pieds ou se tortille sur sa chaise.
+-   À du mal à rester assis, se lève souvent de son siège même en classe.
+-   À des difficultés à entreprendre tranquillement des activités de loisir.
+-   Est très impulsif, grossier et même violent.
+-   Parle souvent de façon excessive.
+-   Se précipite souvent pour répondre aux questions sans attendre qu’on ait finit de les poser.
+-   À du mal à attendre son tour.
+-   Interrompt souvent autrui ou impose sa présence.
+-   Manque souvent de précision ou fait preuve de négligence pour son travail scolaire.
+-   Ne voit pas les détails ; difficulté à se concentrer.
+-   À du mal à obéir.
+-   Est facilement distrait par des stimuli externes.
+-   Est souvent intolérant et n’est jamais content
+-   …
 
 Selon certaines études scientifiques, l’hérédité pourrait être un facteur déterminant ; mais il faut aussi relever l’éventuel tabagisme de la mère durant la gestation, des conditions socioéconomiques difficiles ou plus simplement des carences et des problèmes dans l’éducation de l’enfant et l’alimentation.
 
@@ -100,4 +100,4 @@ En médecine complémentaire, il y a donc des traitements naturels pour ces enfa
 
 Sur le même sujet, vous pouvez regarder l’émission Temps Présent sur la TSR : [Ritaline, enquête sur une pilule miracle][1].
 
- [1]: http://www.rts.ch/emissions/temps-present/sante/2904010-ritaline-enquete-sur-une-pilule-miracle.html
+ [1]: https://www.rts.ch/play/tv/temps-present/video/ritaline-enquete-sur-une-pilule-miracle?urn=urn:rts:video:2994443

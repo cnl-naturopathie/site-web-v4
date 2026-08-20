@@ -11,12 +11,12 @@ Le drainage lymphatique, enseigné par le Dr E. Vodder, est un massage très dou
 
 ## Indications
 
-  * Syndromes rhumatismaux : neuromyalgies, tendinoses, syndromes vertébraux (cervicalgies, lombalgies), infiltrations, coxarthrose, etc.
-  * Suites d’accidents : guérison et cicatrisation des plaies, prévention ou suppression des raideurs, épaississements, contractures, hématomes, contusions, algodystrophies, etc.
-  * Maladie de la peau : ulcères des jambes, indurations, eczéma chronique, acné chronique, enflures, atrophie de la peau.
-  * Oedèmes : migraine, éléphantiasis, séquelles d’affections des muqueuses, sinusite, infections grippales et maladies allergiques, gros bras après une mastectomie (ablation d’un sein), jambes lourdes, claudication intermittente, etc.
-  * Régénération générale, notamment en cas de convalescence lente après opération ou maladies infectieuses : phénomènes de sénescence, notamment ostéoporose et troubles circulatoires, asthme, etc.
-  * Le corps humain est constitué à peu près de 60 % d’eau : que ce soit dans ou entre les cellules, dans les vaisseaux sanguins ou les vaisseaux lymphatiques, l’eau est à la base de tout processus biologique. Lorsque nous parlons de lymphe, nous entendons non seulement le contenu des vaisseaux lymphatiques, mais aussi tous les liquides dans les tissus.
+-   Syndromes rhumatismaux : neuromyalgies, tendinoses, syndromes vertébraux (cervicalgies, lombalgies), infiltrations, coxarthrose, etc.
+-   Suites d’accidents : guérison et cicatrisation des plaies, prévention ou suppression des raideurs, épaississements, contractures, hématomes, contusions, algodystrophies, etc.
+-   Maladie de la peau : ulcères des jambes, indurations, eczéma chronique, acné chronique, enflures, atrophie de la peau.
+-   Oedèmes : migraine, éléphantiasis, séquelles d’affections des muqueuses, sinusite, infections grippales et maladies allergiques, gros bras après une mastectomie (ablation d’un sein), jambes lourdes, claudication intermittente, etc.
+-   Régénération générale, notamment en cas de convalescence lente après opération ou maladies infectieuses : phénomènes de sénescence, notamment ostéoporose et troubles circulatoires, asthme, etc.
+-   Le corps humain est constitué à peu près de 60 % d’eau : que ce soit dans ou entre les cellules, dans les vaisseaux sanguins ou les vaisseaux lymphatiques, l’eau est à la base de tout processus biologique. Lorsque nous parlons de lymphe, nous entendons non seulement le contenu des vaisseaux lymphatiques, mais aussi tous les liquides dans les tissus.
 
 ## La lymphe a trois fonctions
 

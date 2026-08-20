@@ -21,24 +21,22 @@ L’alimentation permettra de rééquilibrer les fonctions physiologiques. À no
 
 ## Conseils diététiques
 
-  * Entraînement : 500 ml/h de boisson glucidique avec des acides aminés branchés. Ces boissons évitent également la déshydratation, l’hypoglycémie et les crampes.
-  * En pré-compétition : J-3 au dernier repas, l’idéal est l’apport de produits céréaliers non complets « sans résidus » ou pomme de terre. Dernier repas « sans résidus » minimum 3 h avant l’épreuve.
-  * Compétition : Les boissons de l’effort doivent contenir des glucides et des acides aminés branchés, 500 ml/h (voire plus si contraintes thermiques) durant l’effort, accompagné de barres pour le sport d’endurance.
-  * Après l’effort : boisson « salée » comme la *St-Yorre* ou la *Vichy Celestins* pour compenser une partie des pertes minérales et l’acidité ainsi que des boissons hypotoniques contenant des glucides et des acides aminés. Fruits secs ou barres glucidiques. Pour le repas du soir, aliments peu acidifiants comme les légumes racines (pommes de terre, raves, carottes…), verts et orangés et poissons bleus.
-  * Le lendemain : petit déjeuner riche en fruits et protéines (œufs, viande séchée, poulet…). Apport d’oléagineux et fruits secs, sources d’acides gras polyinsaturés et de magnésium. À midi, réintroduction de la viande avec légumes verts et pomme de terre.
-
-&nbsp;
+-   Entraînement : 500 ml/h de boisson glucidique avec des acides aminés branchés. Ces boissons évitent également la déshydratation, l’hypoglycémie et les crampes.
+-   En pré-compétition : J-3 au dernier repas, l’idéal est l’apport de produits céréaliers non complets « sans résidus » ou pomme de terre. Dernier repas « sans résidus » minimum 3 h avant l’épreuve.
+-   Compétition : Les boissons de l’effort doivent contenir des glucides et des acides aminés branchés, 500 ml/h (voire plus si contraintes thermiques) durant l’effort, accompagné de barres pour le sport d’endurance.
+-   Après l’effort : boisson « salée » comme la *St-Yorre* ou la *Vichy Celestins* pour compenser une partie des pertes minérales et l’acidité ainsi que des boissons hypotoniques contenant des glucides et des acides aminés. Fruits secs ou barres glucidiques. Pour le repas du soir, aliments peu acidifiants comme les légumes racines (pommes de terre, raves, carottes…), verts et orangés et poissons bleus.
+-   Le lendemain : petit déjeuner riche en fruits et protéines (œufs, viande séchée, poulet…). Apport d’oléagineux et fruits secs, sources d’acides gras polyinsaturés et de magnésium. À midi, réintroduction de la viande avec légumes verts et pomme de terre.
 
 ## Complément indispensable au sportif au quotidien
 
 Pour plusieurs de ces besoins, il existe des complexes dans différentes marques qui sont très bien conçus.
 
-  * Les acides gras, oméga 3 et 6 (500 mg – 1 g).
-  * Les protéines et acides aminés comme L-Carnitine, L- Cystéine, L-Glutamine, la glycine, L-Arginine, la Taurine, les a.a ramifiés ou branchés – leucine-isoleucine-valine.
-  * Les cofacteurs enzymatiques, orotate de magnésium, zinc, B1, B6, Q10 (100 mg).
-  * Des antioxydants, Se-Zn-Mn-Cu, vit E (400 UI), vit C (500 mg).
-  * Probiotiques pour les intestins.
-  * _Burgerstein_ : probase 1 cc au coucher, neutralise l’acidité tissulaire.
+-   Les acides gras, oméga 3 et 6 (500 mg – 1 g).
+-   Les protéines et acides aminés comme L-Carnitine, L- Cystéine, L-Glutamine, la glycine, L-Arginine, la Taurine, les a.a ramifiés ou branchés – leucine-isoleucine-valine.
+-   Les cofacteurs enzymatiques, orotate de magnésium, zinc, B1, B6, Q10 (100 mg).
+-   Des antioxydants, Se-Zn-Mn-Cu, vit E (400 UI), vit C (500 mg).
+-   Probiotiques pour les intestins.
+-   *Burgerstein* : probase 1 cc au coucher, neutralise l’acidité tissulaire.
 
 ##  Conseils
 

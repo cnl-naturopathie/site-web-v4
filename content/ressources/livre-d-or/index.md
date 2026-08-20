@@ -14,10 +14,9 @@ Grâce à sa gentillesse, à son professionnalisme, à la qualité de ses soins 
 
 C’est ainsi qu’elle prend en charge, épisodiquement ou de manière régulière, dix membres de la famille répartis sur trois générations...
 
-*Michel, Patricia, Caroline, Gabriel, Tabatha, & Co.*
+> Michel, Patricia, Caroline, Gabriel, Tabatha, & Co.
 
-<hr style="margin:50px 0">
-
+---
 
 Lorsque je suis allée consulter Mme Grossrieder, cela faisait plusieurs mois que je souffrais d’une grande fatigue liée à un parasite auquel mon système immunitaire n’arrivait pas à faire face.
 
@@ -31,27 +30,21 @@ Cela fait maintenant plusieurs années que nous adaptons notre mode de vie et no
 
 Un grand merci à elle !
 
-*Sabrina, Vevey*
+> Sabrina, Vevey
 
-<hr style="margin:50px 0">
-
-
+---
 
 Une poigne de fer dans un gant de velours, sauf quand tu utilises ta “matraque” !<br>Sans toi, il y a déjà longtemps que mes bras auraient touché le sol à force d’avoir le dos bloqué.
 
-*Christine, Bioley-Orjulaz*
+> Christine, Bioley-Orjulaz
 
-<hr style="margin:50px 0">
-
-
+---
 
 Fabienne a toujours été là quand j’en ai eu besoin. En écoutant et appliquant ses conseils j’ai eu des résultats extraordinaires. Un grand merci !
 
-*Simon Olivetta, Vufflens-la-Ville*
+> Simon Olivetta, Vufflens-la-Ville
 
-<hr style="margin:50px 0">
-
-
+---
 
 Fidèle depuis 16 ans, je peux dire que du bien sur Fabienne.
 
@@ -61,12 +54,9 @@ Depuis plusieurs années, sur ses conseils, je prends chaque automne-hiver des c
 
 Merci beaucoup pour ton super travail !
 
-*Annette, Cugy*
+> Annette, Cugy
 
-
-<hr style="margin:50px 0">
-
-
+---
 
 En août 2015, j’ai dû me rendre aux urgences pour un angio-œdème facial très impressionnant et une urticaire généralisée. Je n’avais jamais fait d’allergie auparavant donc ça a été un choc. Bien sûr ma santé se dégradait depuis quelques années mais les médecins ne trouvaient rien qu’ils puissent traiter. J’ai donc consulté un allergologue, qui m’a très mal prise en charge selon moi, car il m’a prescrit des antihistaminiques au long terme alors que je ne les supportais pas, sans chercher de cause à mes problèmes. C’est une collègue qui m’a conseillé de venir voir Fabienne G. car elle avait traité sa fille pour des allergies il y avait de cela plusieurs années en arrière et elle avait été très contente de la prise en charge et des résultats, bien meilleurs selon elle qu’avec la médecine générale.
 
@@ -83,11 +73,9 @@ Je n’ai pas encore terminé mon suivi mais j’ai pu espacer les séances comm
 
 Je remercie vraiment Fabienne Grossrieder qui m’a écoutée, entendue, guidée, soutenue et qui m’a surtout permit d’aller beaucoup mieux.
 
-*Laure, Sion*
+> Laure, Sion
 
-<hr style="margin:50px 0">
-
-
+---
 
 Maman de trois enfants, mes deux cadets ont commencé à avoir des troubles digestifs lors de l’introduction de l’alimentation solide. Entourés d’un pédiatre anthroposophe et d’un homéopathe, mes enfants ne sont pas vaccinés et mon orientation est clairement inclinée vers les médecines naturelles. Face aux troubles digestifs de ma fille, le pédiatre et l’homéopathe ne savent pas vraiment que faire et m’orientent vers une pédiatre-gastro-entérologue. Puis nous irons chez un allergologue faire des prises de sang. Choux blancs : aucune allergie et une belle théorie sur la normalité des bronchites spastiques, pneumonies à répétition et eczéma : c’est normal avant 5 ans !
 
@@ -96,4 +84,4 @@ Là, je me sens démunie et impuissante. Instinctivement, je retire les produits
 Enfin, je suis écoutée, entendue, considérée, Fabienne m’apporte soutien et réconfort et surtout des réponses ! Oui mes enfants ont des intolérances alimentaires ! Une nouvelle alimentation sera mise en place grâce à ses conseils et idées. Mes enfants sont soignés, le Ventolin n’a plus été utilisé depuis une année.
 Fabienne aime son métier et elle diffuse une énergie de douceur rassurante, elle prend le temps et sait réellement écouter. Elle s’implique vraiment et c’est une source d’idée. Pour nous, c’est notre médecin de famille en qui j’ai une confiance absolue et je lui porte un immense respect. Sa disponibilité est très agréable. Je lui suis profondément reconnaissante.
 
-*Ines, Crissier*
+> Ines, Crissier

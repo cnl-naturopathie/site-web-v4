@@ -8,7 +8,7 @@ thumbnail:
     image: feature.jpg
 ---
 
-**_Fabienne Grossrieder, Naturopathe – Nutritionniste_**
+> **_Fabienne Grossrieder, Naturopathe – Nutritionniste_**
 
 Revenez sur cette page cet hiver pour y découvrir mes derniers conseils pour rester en pleine forme toute la saison froide.
 
@@ -30,11 +30,7 @@ Ces quelques conseils vous sembleront certainement logiques, mais nous n’avons
 * S’aérer au moins 30 minutes par jour et s’octroyer des moments de repos et de calme.
 * Maintenir un bon taux d’humidité (40–60 %) dans la maison, bien l’aérer, voire diffuser des huiles essentielles (ravensare aromatica, lemongrass, lavendula vera).
 
-
-
 <div style="page-break-before:always;"></div>
-
-
 
 **Je vous recommande le traitement suivant, d’octobre à février**<br>(liste non exhaustive) :
 
@@ -48,16 +44,11 @@ _10 gouttes 1 j sur 2_
 
 _1 dosette 1 j sur 2_
 
-
-
 <span class="toto">OU</span> **Préparation magistrale en Spagyrie Phylak**
 
 _100 ml 10 gouttes / j_
 
 15% Pillocarpus-Imperatoria-Gelsemium, 20% Drosera-Urtica-China-Kalmia, 25% Vinca-Rhus tox-Belladona-Allium cepa-Kalmia, 20% Propolis-Ephedra-Sambucus-thuya, 20% Fagopyrum-Eupatorium-Echinacea pallida-Juniperus
-
-
-
 
 <span class="toto">OU</span> **•    Homéopathie Schmidt Nagel : Influenzinum 9CH et Thymuline 9CH**
 
@@ -83,10 +74,8 @@ Chaque fois que le nez coule,  nez  sec, gorge sèche ou irritée ou que vous av
 
 ***
 
-
 <p style="margin-top: 5em;"></p>
 
 Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2018</span>
-
 
 -->

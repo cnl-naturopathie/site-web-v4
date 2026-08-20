@@ -23,22 +23,22 @@ La constitution de chaque personne est basée sur une relation particulière ave
 
 En ayurvéda, toute chose est composée des cinq éléments denses :
 
-- L’éther : élément si subtil que nous y pensons rarement ; il est assimilé à l’étendue de l’espace et la sagesse.
-- L’air : cet élément est gazeux et a des qualités impalpables. Il est léger, clair, sec et se disperse.
-- Le feu : il est le pouvoir du changement et de la transformation. Il a les qualités de chaleur, sécheresse et présente un mouvement ascendant.
-- L’eau : l’eau est liquide, froide et coule vers le bas. Elle n’a pas de forme propre
-- La terre : élément solide, avec les qualités de lourdeur, dureté et n’indiquant qu’un léger mouvement vers le bas.
+-   L’éther : élément si subtil que nous y pensons rarement ; il est assimilé à l’étendue de l’espace et la sagesse.
+-   L’air : cet élément est gazeux et a des qualités impalpables. Il est léger, clair, sec et se disperse.
+-   Le feu : il est le pouvoir du changement et de la transformation. Il a les qualités de chaleur, sécheresse et présente un mouvement ascendant.
+-   L’eau : l’eau est liquide, froide et coule vers le bas. Elle n’a pas de forme propre
+-   La terre : élément solide, avec les qualités de lourdeur, dureté et n’indiquant qu’un léger mouvement vers le bas.
 
 Les doshas, comme les éléments, ne peuvent être détectés avec nos sens, mais leurs qualités le peuvent. Ainsi Vata a les qualités de l’air (prédominant) et de l’éther ; Pitta a les qualités feu et eau (élément secondaire) ; Kapha a les qualités eau (fondamental) et terre.
 
 Il est important de réaliser que les trois doshas changent constamment dans notre être, en raison des qualités de notre style de vie et de notre environnement, comme le temps et la saison. Le but est de les maintenir dans un sain équilibre par rapport à nous-mêmes.
 
-## La démarche de l’ayurvéda pourrait être résumée en 4 points :
+## La démarche de l’ayurvéda pourrait être résumée en 4 points
 
-  * **Désintoxication :** libérer la personne des toxines accumulées
-  * **Diététique appropriée :** nourrir son corps, son mental et son affectif d’apports qui soutiennent la vie
-  * **Hygiène de vie :** définir et vivre un programme quotidien en harmonie avec ses aspirations
-  * **Spirituel :** élargir sa conscience et vivre selon les valeurs de paix, d’amour, de joie, de connaissance, d’harmonie et de perfection qui sont les valeurs de l’âme ou du divin.
+-   **Désintoxication :** libérer la personne des toxines accumulées
+-   **Diététique appropriée :** nourrir son corps, son mental et son affectif d’apports qui soutiennent la vie
+-   **Hygiène de vie :** définir et vivre un programme quotidien en harmonie avec ses aspirations
+-   **Spirituel :** élargir sa conscience et vivre selon les valeurs de paix, d’amour, de joie, de connaissance, d’harmonie et de perfection qui sont les valeurs de l’âme ou du divin.
 
 ## Les massages de l’ayurvéda
 
@@ -46,16 +46,15 @@ Les massages ayurvédiques visent toujours à la création de la santé et pas u
 
 L’organisme en général et le système immunitaire en particulier sont renforcés. Les massages recréent une bonne communication entre les points énergétiques et stimulent « le feu digestif ».
 
-
 <hr style="margin: 50px 0 100px">
 
-# Massages pratiqués dans notre centre
+## Massages pratiqués dans notre centre
 
-## Le *mahabhyanga* – le grand massage (1 h 30 – 2 h)
+### Le *mahabhyanga* – le grand massage (1 h 30 – 2 h)
 
 Le massage à l’huile chaude est une méthode efficace pour détendre, stimuler le flux énergétique, la lymphe, la circulation sanguine et le métabolisme. Il nourrit et régénère les tissus et aide à éliminer les toxines. Il harmonise et équilibre les doshas Vata, Pitta, Kapha. L’huile chaude pénètre plus rapidement dans l’organisme, car elle est mieux « digérée », et sa valeur nutritive est supérieure.
 
-## *Kansu*
+### *Kansu*
 
 Massage de la plante du pied avec le bol.
 
@@ -65,7 +64,7 @@ Ce massage des pieds touche les points réflexes du corps. Il aide les personnes
 
 Le bol utilisé pour ce massage s’appelle le Kansu, constitué d’un alliage de métaux dont le principal est le cuivre.
 
-## *Udara* – méthode pour débloquer l’abdomen
+### *Udara* – méthode pour débloquer l’abdomen
 
 Ce massage travaille en profondeur sur toute la région du ventre et bas ventre. Il active ainsi le colon, la vessie, détoxique toute la région uro-génitale. Il permet une bonne circulation des liquides et des énergies entre le haut et le bas du corps.
 

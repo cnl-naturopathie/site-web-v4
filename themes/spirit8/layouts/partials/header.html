@@ -4,7 +4,7 @@
 	<!-- Basic Page Needs
 	================================================== -->
 	<meta charset="utf-8">
-	<meta name="generator-date" content="{{ now.Format "2006-01-02T15:04:05Z07:00" }}">
+	<meta name="generator-date" content="{{ now.UTC.Format "2006-01-02T15:04:05Z" }}">
 	{{ `<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9"><![endif]-->` | safeHTML }}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{ site.Title }}</title>

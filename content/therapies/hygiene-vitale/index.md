@@ -13,18 +13,15 @@ Pythagore au 6<sup>e</sup> siècle avant Jésus-Christ professait déjà que la 
 
 L’hygiène vitale tient compte de l’importance des lois de la Vie à disposition de chacun ; mais dont souvent nous en sous-estimons ou ignorons l’importance :
 
-<div class="columns2">
-<ul>
-<li>Alimentation – Nutrition</li>
-<li>Air – Eau – Soleil</li>
-<li>Contact avec des matières</li>
-<li>Activité physique – Sédentarité</li>
-<li>Travail – Repos</li>
-<li>Habitat – Environnement</li>
-<li>Équilibre psychoaffectif</li>
-<li>Spiritualité</li>
-</ul>
-</div>
+-   Alimentation – Nutrition
+-   Air – Eau – Soleil
+-   Contact avec des matières
+-   Activité physique – Sédentarité
+-   Travail – Repos
+-   Habitat – Environnement
+-   Équilibre psychoaffectif
+-   Spiritualité
+{.columns2}
 
 ## Les lois de la vie
 

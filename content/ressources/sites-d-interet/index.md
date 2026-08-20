@@ -8,8 +8,8 @@ thumbnail:
     image: feature.jpg
 ---
 
-<div style="text-align: center">
-<h2>EN CONSTRUCTION</h2>
+## EN CONSTRUCTION
 
+<div style="text-align: center">
 <i style="font-size:60pt; color:#AAA; margin-top:40px;" class="fa fa-cog"></i>
 </div>

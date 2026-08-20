@@ -18,9 +18,9 @@ Mais cela n’a peut-être rien à voir avec la pléthore actuelle, le phénomè
 
 Jusqu’à cette époque, on peut analyser la situation pour mettre en évidence les différences par rapport à aujourd’hui :
 
-* Tout d’abord, les mères allaitaient leurs enfants plus longtemps, jusqu’à un an ou même deux ans, alors que de nos jours on allaite que durant quelques semaines, ou même quelques jours, ou encore pas du tout !
-* Les femmes aisées, si elles n’allaitaient pas, prenaient une nourrice ; et ce n’était peut-être pas le moindre mal.
-* Et si beaucoup d’enfants mouraient jeunes, s’ils étaient souvent rachitiques, parfois tuberculeux, il faut incriminer la misère, les taudis, la mauvaise hygiène, le travail précoce et les privations qui ne permettaient pas un sevrage normal.
+-   Tout d’abord, les mères allaitaient leurs enfants plus longtemps, jusqu’à un an ou même deux ans, alors que de nos jours on allaite que durant quelques semaines, ou même quelques jours, ou encore pas du tout !
+-   Les femmes aisées, si elles n’allaitaient pas, prenaient une nourrice ; et ce n’était peut-être pas le moindre mal.
+-   Et si beaucoup d’enfants mouraient jeunes, s’ils étaient souvent rachitiques, parfois tuberculeux, il faut incriminer la misère, les taudis, la mauvaise hygiène, le travail précoce et les privations qui ne permettaient pas un sevrage normal.
 
 ## Pourquoi tant de lait aujourd’hui ?
 
@@ -28,11 +28,11 @@ Pourquoi du petit morceau de fromage accompagné d’un quignon de pain est-on p
 
 En clair, le lait est un marché, et un marché énorme, dont les profits vont principalement aux gros distributeurs et aux multinationales de l’agroalimentaire, lesquels consacrent aux laitages environ 20 % du budget de publicité de l’ensemble des produits alimentaires !
 
-## Le lait, une vacherie !
+## Le lait, une vacherie
 
 Le Dr Nicolas Le BERRE, dans le titre de son livre « Le lait, une sacrée vacherie ? » (éd. Charles Corlet), énonce cette phrase sous forme d’interrogation ; mais il y répond affirmativement. Et cela pour plusieurs raisons, comme : « aucun animal ne continue à boire du lait après son sevrage », et il ne souffre d’aucune carence en calcium. Alors, il est bon de savoir que notre source de calcium (et autres nutriments) se trouve et s’est toujours trouvée dans nos végétaux : légumes, céréales, fruits, et non dans le lait de vache qui contient du calcium pour son veau, peu assimilable pour l’homme, il faut bien le reconnaître !
 
-## Le lait est indigeste !
+## Le lait est indigeste
 
 Le lait est issu d’un ruminant, généralement une vache, mais seulement pour son veau qui possède dans son appareil digestif une grande quantité de **présure** (utilisée artisanalement pour la fabrication du fromage), au fort pouvoir coagulant. Seul le petit enfant peut produire de la présure pour digérer le lait maternel. Alors, quand vous buvez du lait ou mangez des laitages, votre système digestif doit produire énormément de**lactase** (enzyme issue de l’intestin) pour le digérer ; et si la lactase n’est pas suffisante, fermentations et début de putréfaction se produisent.
 
@@ -40,13 +40,13 @@ Le lait est issu d’un ruminant, généralement une vache, mais seulement pour 
 
 On consomme souvent du lait écrémé par peur des graisses animales du lait entier. Sur ce point précis, apportons une correction de taille : ce ne sont pas les graisses du lait qui augmentent le risque de cholestérol dans les artères, mais les **protéines** du lait. En effet, la consommation importante de produits laitiers augmente la quantité de l’homocystéine plasmatique dans le sang. Et c’est cette substance qui précipite le cholestérol sur la paroi des artères.
 
-## Le lait déminéralise !
+## Le lait déminéralise
 
 C’est la phrase sacrilège ! Le lait qu’on recommande à longueur de publicité pour le calcium, pour avoir des enfants solides, pour éviter l’ostéoporose, épouvantail largement utilisé par le corps médical !
 
 Or, les pays qui consomment beaucoup de produits laitiers, comme la Suisse, la France, la Finlande, la Suède, la Hollande, les USA, etc. sont aussi ceux où l’on constate la plus forte proportion d’ostéoporose et de fractures du col du fémur après 50 ans. D’ailleurs, on remarque une concordance entre la consommation importante de produits laitiers et le développement des maladies osseuses, dont l’ostéoporose (dixit Robert MASSON « Diététique de l’expérience » (éd. Trédaniel).
 
-## Lait de vache et carences !
+## Lait de vache et carences
 
 Aucun animal sauvage ne se nourrit du lait d’un autre animal !
 
@@ -54,19 +54,19 @@ Pour les bébés et les jeunes enfants, le lait de vache présente bien des inco
 
 Les besoins de l’enfant varient avec l’âge et il est remarquable de noter que la composition du lait maternel se modifie dans le temps. On distingue successivement :
 
-- Le colostrum, durant les 5 premiers jours après la naissance
-- Le lait de transition, du 6<sup>e</sup> au 15<sup>e</sup> jour.
-- Le lait mature, du 16<sup>e</sup> jour au 15<sup>e</sup> mois.
+-   Le colostrum, durant les 5 premiers jours après la naissance
+-   Le lait de transition, du 6<sup>e</sup> au 15<sup>e</sup> jour.
+-   Le lait mature, du 16<sup>e</sup> jour au 15<sup>e</sup> mois.
 
 Ces trois variétés de lait offrent des différences au niveau des graisses, des protéines, des minéraux, des oligo-éléments et des vitamines.
 
 Le lait de vache, de par sa composition fort éloignée de celle du lait maternel, ne constitue pas un aliment idéal pour le jeune enfant. Aussi l’industrie agroalimentaire a apporté des modifications au lait de vache, afin qu’il ressemble davantage au lait humain. Ainsi ont été préparés des laits maternisés, dits aussi « diététiques » ou « infantiles ». Ces laits maternisés se rapprochent du lait maternel, mais des différences majeures persistent :
 
-- Certaines substances propres au lait humain manquent, comme la gynolactose, les IgA, la lipase,
-- la bétalactoglobuline n’est pas supprimée,
-- et le principal demeure : des protéines bovines sont introduites dans le tube digestif d’un enfant programmé pour traiter des protéines humaines = réactions allergiques !
+-   Certaines substances propres au lait humain manquent, comme la gynolactose, les IgA, la lipase,
+-   la bétalactoglobuline n’est pas supprimée,
+-   et le principal demeure : des protéines bovines sont introduites dans le tube digestif d’un enfant programmé pour traiter des protéines humaines = réactions allergiques !
 
-## Parlons d’allergies !
+## Parlons d’allergies
 
 Les allergies au lait de vache sont de plus en plus nombreuses. À ce sujet, il faut bien distinguer entre allergie et intolérance. Cette dernière est due à un dépassement des fonctions enzymatiques au cours de la digestion. Si elle donne des symptômes souvent voisins, elle suppose cependant une réaction et un traitement différent.
 
@@ -78,24 +78,21 @@ Cette allergie au lait de vache peut se déclencher chez le nourrisson dès les 
 
 Infections ORL à répétition chez l’enfant = otites, rhinopharyngites, bronchites
 
-<div class="columns2">
-<ul>
-<li>Asthme</li>
-<li>Conjonctivite</li>
-<li>Troubles digestifs</li>
-<li>Choc anaphylactique</li>
-<li>Candidose</li>
-<li>Fatigue</li>
-<li>Eczéma</li>
-<li>Rhumatismes</li>
-<li>Urticaire</li>
-<li>Cystite</li>
-<li>Migraine</li>
-<li>Acné</li>
-</ul>
-</div>
+-   Asthme
+-   Conjonctivite
+-   Troubles digestifs
+-   Choc anaphylactique
+-   Candidose
+-   Fatigue
+-   Eczéma
+-   Rhumatismes
+-   Urticaire
+-   Cystite
+-   Migraine
+-   Acné
+{.columns2}
 
-## L’allergie aux polluants.
+## L’allergie aux polluants
 
 Hélas, aujourd’hui, rien n’est indemne de pollutions dans la chaîne alimentaire : additifs, colorants, conservateurs, antibiotiques, pesticides, médicaments, etc. La présence d’antibiotiques dans le lait et les produits laitiers peut provoquer soit directement des allergies, soit sensibiliser peu à peu la personne jusqu’à ce que les symptômes apparaissent réellement.
 
@@ -107,9 +104,9 @@ C’est un liquide légèrement acide qui résulte de la coagulation du lait (ca
 
 Dans le petit lait, on retrouve les minéraux, oligo-éléments comme le zinc, le potassium et aussi la vitamine B2. Peu de sodium, des acides aminés sans caséine, des acides orotiques et lactiques. Le petit lait, dépuratif et régénérateur de la flore intestinale, ne présente cette fois que des avantages.
 
-## Et il y a d’autres solutions !
+## Et il y a d’autres solutions
 
-### Pour bébé et le petit enfant :
+### Pour bébé et le petit enfant
 
 Il faut le dire, pour toutes les raisons évoquées, le seul lait qui convienne à un bébé est celui de sa mère. L’idéal serait donc de l’allaiter durant les quatre à six premiers mois. Sinon, la bonne solution de remplacement est d’alterner les laits végétaux : soja, blé, avoine, amandes, etc. Selon Robert MASSON susmentionné, le lait d’ânesse semble le seul lait animal pouvant se substituer au lait maternel.
 

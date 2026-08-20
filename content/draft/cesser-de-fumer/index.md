@@ -24,21 +24,21 @@ Combien de cigarettes pourrait-on fumer chaque jour sans que ce soit vraiment no
 
 Il ne semble pas y avoir de réponse satisfaisante à cette question, car il n’y a pas de commune mesure pour chacun. A priori, nous distinguons trois phases dans l’action du tabac sur la santé :
 
-- Celle de **l’attaque du tabac**. Au début, le corps, toujours en bonne santé, réagit grâce aux mécanismes naturels de défense et d’élimination. Le fumeur n’est pas encore vraiment gêné par le tabac. L’oxygénation du sang est moins bonne, mais il ne s’en rend pas compte,à cause de la réserve d’énergie dont il dispose. La dégradation des systèmes respiratoire,nerveux, cardio-vasculaire, et le dérèglement du glucose ont déjà commencé. C’est une phase de plaisir et d’insouciance où le fumeur ne voit aucune raison pour arrêter de fumer.Pourtant, arrêter à ce stade éviterait tous les méfaits du tabac. Attend-on qu’une voiture ait coulé une bielle pour y remettre de l’huile ?
-- À partir de 50’000 cigarettes, soit 2500 paquets, soit 7 à 10 ans de tabagisme, les mécanismes de défense deviennent moins efficaces. C’est la deuxième phase, celle de l’invasion. Les composants toxiques de la fumée ont envahi l’organisme qui s’encrasse.Les cils vibratiles sont paralysés et les goudrons restent dans les bronches, au lieu d’être éliminés. De plus, la toux s’en mêle ! À ce stade, fumer est devenu un besoin absolu.Pourtant, tout peut encore rentrer dans l’ordre en cessant.
-- Après 200’000 cigarettes, soit 20’000 paquets, soit environ 40 à 50 ans de tabagisme, chiffres très variables d’un individu à l’autre, des troubles pathologiques graves liés au tabac apparaissent. C’est la troisième phase, celle du **massacre**. Il peut s’agir d’un cancer,d’un infarctus, d’une bronchite chronique, d’un emphysème ou des pathologies digestives graves.
+-   Celle de **l’attaque du tabac**. Au début, le corps, toujours en bonne santé, réagit grâce aux mécanismes naturels de défense et d’élimination. Le fumeur n’est pas encore vraiment gêné par le tabac. L’oxygénation du sang est moins bonne, mais il ne s’en rend pas compte,à cause de la réserve d’énergie dont il dispose. La dégradation des systèmes respiratoire,nerveux, cardio-vasculaire, et le dérèglement du glucose ont déjà commencé. C’est une phase de plaisir et d’insouciance où le fumeur ne voit aucune raison pour arrêter de fumer.Pourtant, arrêter à ce stade éviterait tous les méfaits du tabac. Attend-on qu’une voiture ait coulé une bielle pour y remettre de l’huile ?
+-   À partir de 50’000 cigarettes, soit 2500 paquets, soit 7 à 10 ans de tabagisme, les mécanismes de défense deviennent moins efficaces. C’est la deuxième phase, celle de l’invasion. Les composants toxiques de la fumée ont envahi l’organisme qui s’encrasse.Les cils vibratiles sont paralysés et les goudrons restent dans les bronches, au lieu d’être éliminés. De plus, la toux s’en mêle ! À ce stade, fumer est devenu un besoin absolu.Pourtant, tout peut encore rentrer dans l’ordre en cessant.
+-   Après 200’000 cigarettes, soit 20’000 paquets, soit environ 40 à 50 ans de tabagisme, chiffres très variables d’un individu à l’autre, des troubles pathologiques graves liés au tabac apparaissent. C’est la troisième phase, celle du **massacre**. Il peut s’agir d’un cancer,d’un infarctus, d’une bronchite chronique, d’un emphysème ou des pathologies digestives graves.
 
 Mais là encore, il sera toujours temps de retrouver un meilleur état de santé en renonçant à fumer. Quelles sont les conséquences du tabagisme pour la Société ?
 
 En affaiblissant l’organisme, le tabac favorise l’apparition de maladies physiques et comportementales :
 
-- Selon le Département fédéral de la santé publique, la surmortalité due au tabac est de plus de 12'000 personnes en 1999, en Suisse, soit 10 fois plus que les décès par accidents de la route.
-- Le tabac est à l’origine de 95 % du cancer du poumon, un des cancers dont on a que peu de chance d’en réchapper.
-- Le tabac serait responsable de 30 % de l’ensemble des cancers, notamment du poumon, desbronches, du pharynx, du larynx, de la langue, des lèvres, de l’œsophage, de la vessie, du pancréas et du col de l’utérus.
-- Sur 10 personnes souffrant de bronchite chronique, 9 fument ou ont fumé longtemps.
-- Le tabac favorise la formation d’ulcère à l’estomac.
-- 50 % des infarctus du myocarde seraient imputables au tabac.
-- Et la pilule AC + le tabac chez les femmes... et l’absentéisme dans les entreprises... et la fatigue chronique...
+-   Selon le Département fédéral de la santé publique, la surmortalité due au tabac est de plus de 12’000 personnes en 1999, en Suisse, soit 10 fois plus que les décès par accidents de la route.
+-   Le tabac est à l’origine de 95 % du cancer du poumon, un des cancers dont on a que peu de chance d’en réchapper.
+-   Le tabac serait responsable de 30 % de l’ensemble des cancers, notamment du poumon, desbronches, du pharynx, du larynx, de la langue, des lèvres, de l’œsophage, de la vessie, du pancréas et du col de l’utérus.
+-   Sur 10 personnes souffrant de bronchite chronique, 9 fument ou ont fumé longtemps.
+-   Le tabac favorise la formation d’ulcère à l’estomac.
+-   50 % des infarctus du myocarde seraient imputables au tabac.
+-   Et la pilule AC + le tabac chez les femmes... et l’absentéisme dans les entreprises... et la fatigue chronique...
 
 Le tabac représente une charge considérable pour l’État et le social. Il coûte beaucoup plus cher qu’il ne rapporte à l’État. Quel paradoxe ! Alors on peut se poser cette question : dans le monde, dans notre société dite civilisée,comment a-t-on pu en arriver à admettre l’**irresponsabilité du fumeur**, qui fait fi de tout ce qu’il sait fort bien, qui se rend petit à petit infirme et qui se laisse tuer ?
 
@@ -64,11 +64,11 @@ Le fumeur, qui entend agir à la suite d’une véritable prise de conscience, e
 
 **Quand** faut-il s’arrêter de fumer ?
 
-- Être au clair avec sa motivation
-- Se sentir prêt
-- Le plus vite possible
-- Dans le contexte de ses occupations habituelles
-- En évitant si possible de choisir une période riche en sollicitations, ainsi que les moments prévisibles d’intense surmenage.
+-   Être au clair avec sa motivation
+-   Se sentir prêt
+-   Le plus vite possible
+-   Dans le contexte de ses occupations habituelles
+-   En évitant si possible de choisir une période riche en sollicitations, ainsi que les moments prévisibles d’intense surmenage.
 
 **Comment** s’arrêter de fumer ? Seul ou à plusieurs. Entraîner conjoint, amis, voisins, collègues de travail, permet de se soutenir mutuellement, de ne pas être seul devant ce combat pour une vie meilleure.
 

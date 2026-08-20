@@ -7,7 +7,7 @@ thumbnail:
     image: feature.jpg
 ---
 
-## Emotional Freedom Technique
+## _Emotional Freedom Technique_
 
 L’EFT est en fait une forme d’acupuncture sans aiguilles.
 
@@ -15,6 +15,6 @@ La Technique consiste à tapoter sur des points d’acupuncture, siège d’émo
 
 Cette technique époustouflante de simplicité et que vous pourrez continuer à pratiquer chez vous apporte un réel bien être en quelques minutes !
 
-Pour plus de précisions je vous conseille le site de l’auteur, Mr. Cary Graig et également le site de Mme. Marylène Strauss ([www.LesClesCelestes.com][1]), excellente enseignante en la matière.
+Pour plus de précisions je vous conseille le site de l’auteur, M. Cary Graig et également le site de Mme Marylène Strauss ([www.LesClesCelestes.com][1]), excellente enseignante en la matière.
 
- [1]: http://www.lesclescelestes.com/
+[1]: http://www.lesclescelestes.com/

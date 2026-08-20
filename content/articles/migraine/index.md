@@ -11,10 +11,10 @@ Vous souffrez de migraine ou de maux de tête ! Vous avez tout essayé, en vain
 
 **La naturopathie peut vous venir en aide.**
 
-  * Comment les crises de migraine se déclenchent-elles ?
-  * Pourquoi se répètent-elles ?
-  * Des complications peuvent-elles survenir ?
-  * Peut-on prévenir les crises ? Comment les traiter ?
+-   Comment les crises de migraine se déclenchent-elles ?
+-   Pourquoi se répètent-elles ?
+-   Des complications peuvent-elles survenir ?
+-   Peut-on prévenir les crises ? Comment les traiter ?
 
 Que vos maux de tête résultent de l’hypertension, du syndrome prémenstruel, de maladies auto-immunes, de fatigue oculaire ou de problèmes de la glande thyroïde, que vous réagissiez à certains aliments, au tabac, au foehn ou à la bise, **il existe une solution**.
 
@@ -34,13 +34,13 @@ Les migraines et autres maux de tête sont étroitement liés aux processus de *
 
 Les critères qui définissent la migraine sont capitaux :
 
-  * **L’hérédité** joue un rôle dans le développement de la migraine. Elle ne condamne pas l’enfant de parents migraineux à le devenir, mais le prédispose.
-  * La migraine apparaît en général dans l’enfance ou à la puberté.
-  * Les crises de migraines sont périodiques.
-  * La durée des crises est de l’ordre de 6 à 48 heures, et même plus.
-  * Les personnes sont très souvent victimes de manifestations sensorielles variées comme des éventuels troubles de la vision, une difficulté à parler, à écrire, des bourdonnements d’oreilles, des étourdissements. Des manifestations digestives qui peuvent aller de la simple nausée aux vomissements, aux brûlures d’estomac, aux diarrhées… La crise migraineuse est parfois précédée d’hyperactivité, d’excitation excessive, d’augmentation de la libido, d’envies de sucré, de salé et de grignotage.
-  * La migraine débute souvent en fin de nuit ou tôt le matin. Elle peut apparaître brusquement et disparaître aussi rapidement en fin de journée ou, au contraire, apparaître lentement et disparaître de même.
-  * La douleur est en principe « battante », pulsatile. Souvent unilatérale, elle peut changer de côté d’une crise à l’autre.
+-   **L’hérédité** joue un rôle dans le développement de la migraine. Elle ne condamne pas l’enfant de parents migraineux à le devenir, mais le prédispose.
+-   La migraine apparaît en général dans l’enfance ou à la puberté.
+-   Les crises de migraines sont périodiques.
+-   La durée des crises est de l’ordre de 6 à 48 heures, et même plus.
+-   Les personnes sont très souvent victimes de manifestations sensorielles variées comme des éventuels troubles de la vision, une difficulté à parler, à écrire, des bourdonnements d’oreilles, des étourdissements. Des manifestations digestives qui peuvent aller de la simple nausée aux vomissements, aux brûlures d’estomac, aux diarrhées… La crise migraineuse est parfois précédée d’hyperactivité, d’excitation excessive, d’augmentation de la libido, d’envies de sucré, de salé et de grignotage.
+-   La migraine débute souvent en fin de nuit ou tôt le matin. Elle peut apparaître brusquement et disparaître aussi rapidement en fin de journée ou, au contraire, apparaître lentement et disparaître de même.
+-   La douleur est en principe « battante », pulsatile. Souvent unilatérale, elle peut changer de côté d’une crise à l’autre.
 
 La victime est en fait une personne au système circulatoire hypersensible. Ce système réagit par un spasme des artères cérébrales, suivi d’une vasodilatation des petites artères périphériques du crâne, qui provoque les symptômes du mal de tête.
 
@@ -54,7 +54,7 @@ Ce spasme des vaisseaux cérébraux provoque à son tour la libération de molé
 
 Un autre nerf de la face se trouve aussi activé, **le nerf facial**.
 
-**Les causes de la migraine sont donc vasomotrices et inflammatoires**
+**Les causes de la migraine sont donc vasomotrices et inflammatoires.**
 
 ## Les allergies et intolérances alimentaires
 
@@ -64,17 +64,17 @@ Comment repérer les aliments responsables ?
 
 Comme pour toutes les allergies, n’importe quel aliment est susceptible de provoquer une migraine, en particulier les aliments ci-après. On considère que chaque individu possède son propre « tableau » d’intolérances alimentaires :
 
-  * Les œufs, viande de volaille et tout aliment contenant de l’œuf et de la viande de volaille.
-  * Les céréales, surtout le blé (!) et les flocons d’avoine crus.
-  * Le lait de vache, les yogourts et laitages divers.
-  * Le café au lait !
-  * Les sucres – le chocolat au lait…
-  * Les levures.
-  * Les agrumes.
-  * Les nitrates – l’aspartame – le glutamate de sodium.
-  * Certaines sauces.
-  * Les crustacés.
-  * …
+-   Les œufs, viande de volaille et tout aliment contenant de l’œuf et de la viande de volaille.
+-   Les céréales, surtout le blé (!) et les flocons d’avoine crus.
+-   Le lait de vache, les yogourts et laitages divers.
+-   Le café au lait !
+-   Les sucres – le chocolat au lait…
+-   Les levures.
+-   Les agrumes.
+-   Les nitrates – l’aspartame – le glutamate de sodium.
+-   Certaines sauces.
+-   Les crustacés.
+-   …
 
 J’ai noté que les migraineux raffolent généralement de l’aliment impliqué !
 
@@ -98,26 +98,26 @@ Ma conviction repose sur l’extrême **importance de la nutrition** et un par
 
 Je préconise donc un retour à une **alimentation saine**, naturelle, constituée de produits « vivants », si possible biologiques, car les poisons présents dans nos aliments modernes industriels sont à même de déclencher, à la longue, des réactions inflammatoires et allergiques.
 
-  * Légumes frais non traités chimiquement.
-  * Légumineuses.
-  * Fruits mûrs, frais ou séchés naturellement.
-  * Oléagineux.
-  * Miel de qualité.
-  * Viandes de qualité.
-  * Poissons et crustacés.
-  * Œufs frais du pays.
-  * Sucre brut intégral.
-  * Farines complètes fraîchement moulues et pains réalisés avec ces farines.
-  * Huiles crues de première pression à froid.
+-   Légumes frais non traités chimiquement.
+-   Légumineuses.
+-   Fruits mûrs, frais ou séchés naturellement.
+-   Oléagineux.
+-   Miel de qualité.
+-   Viandes de qualité.
+-   Poissons et crustacés.
+-   Œufs frais du pays.
+-   Sucre brut intégral.
+-   Farines complètes fraîchement moulues et pains réalisés avec ces farines.
+-   Huiles crues de première pression à froid.
 
 Et de façon générale :
 
-  * Ne sautez pas de repas.
-  * Évitez les aliments sucrés après un repas, et pas de grignotage !
-  * Diminuez le lait de vache et les laitages. N’en faites pas un aliment de base.
-  * Évitez les fritures.
-  * Ne buvez jamais de café au lait (indigeste).
-  * Évitez les excès de café et d’alcool.
+-   Ne sautez pas de repas.
+-   Évitez les aliments sucrés après un repas, et pas de grignotage !
+-   Diminuez le lait de vache et les laitages. N’en faites pas un aliment de base.
+-   Évitez les fritures.
+-   Ne buvez jamais de café au lait (indigeste).
+-   Évitez les excès de café et d’alcool.
 
 ## Traitement des migraines par des remèdes naturels
 

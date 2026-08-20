@@ -13,37 +13,17 @@ La réflexologie se fonde sur le principe qu’il existe des zones ou des points
 
 La réflexologie détend, réduit les tensions, améliore la circulation du sang, stimule le système nerveux, rétablit l’harmonie et l’équilibre. Comme la plupart des maladies actuelles proviennent du stress, la réflexologie apporte bien des améliorations.
 
-Le Dr Manzanares a approfondi la réflexologie conventionnelle, élaboré une technique et une carte très précise des pieds. Fruit de 20 ans de recherches scientifiques basées sur plus de 70’000 cas cliniques, préalablement diagnostiqués par les méthodes conventionnelles, la réflexologie podale se veut thérapeutique, pratique et efficace.
+Le Dr Manzanares a approfondi la réflexologie conventionnelle, élaboré une technique et une carte très précise des pieds. Fruit de 20 ans de recherches scientifiques basées sur plus de 70’000 cas cliniques, préalablement diagnostiqués par les méthodes conventionnelles, la réflexologie podale se veut thérapeutique, pratique et efficace.
 
 Le Dr Manzanares, de Barcelone (Espagne), a effectué des biopsies sur les dépôts et cristaux formés par une trame du tissu conjonctif de l’hypoderme du pied permettant ainsi de définir la cartographie des zones réflexes du pied. Voici les résultats :
 
-<p>&nbsp;</p>
-<table style="width:100%;">
-<tbody>
-<tr>
-<td></td>
-<th>Biopsie normale<br>
-sans dépôts</th>
-<th>Biopsie<br>
-avec dépôts</th>
-</tr>
-<tr>
-<td>Fibres nerveuses</td>
-<td>8 %</td>
-<td>42 %</td>
-</tr>
-<tr>
-<td>Vaisseaux</td>
-<td>27 %</td>
-<td>28 %</td>
-</tr>
-<tr>
-<td>Tissu conjonctif</td>
-<td>65 %</td>
-<td>30 %</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<!-- markdownlint-disable MD055 MD056 -->
+|                  | Biopsie normale<br>sans dépôts | Biopsie<br>avec dépôts |
+| ---------------- | -----------------------------: | ---------------------: |
+| Fibres nerveuses |                            8 % |                   42 % |
+| Vaisseaux        |                           27 % |                   28 % |
+| Tissu conjonctif |                           65 % |                   30 % |
+{.table-compact}
+<!-- markdownlint-enable MD055 MD056 -->
 
 La réflexologie podale permet de travailler les différents systèmes (nerveux, circulatoires, ostéo-articulaire, digestif…) selon un protocole précis en fonction de chaque pathologie.

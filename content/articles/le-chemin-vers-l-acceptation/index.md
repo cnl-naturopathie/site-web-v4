@@ -35,7 +35,7 @@ L’acceptation : être dans la réalité et agir, mais agir en fonction de ce 
 
 La résignation : c’est se courber devant une fatalité, un coup du sort, des circonstances adverses. Elle est passive, reste fixée sur le passé. Celui qui se résigne, aimerait bien que les choses se passent différemment, mais se sentant impuissant, il abandonne, il laisse tomber les bras. La résignation contient donc deux refus : celui de la réalité, celui de l’action, exactement le contraire de l’acceptation. La résignation supposerait que la manifestation est figée et que les choses ne changent pas. Accepter ce qui est, c’est accepter le changement, la transformation, l’évolution. Résignation ne pourrait signifier que vouloir faire durer, ce qui ne dure pas. L’acceptation est donc bien le contraire de la résignation, car ce qui est pleinement accepté perd son pouvoir et disparaît. Alors que ce qui est dénié est refoulé et subsiste à l’état potentiel. Plus nous refusons, plus ce qui est refusé ou repoussé prend de la force. Il faut réaliser que la page est tournée à chaque milliardième de seconde.
 
-## Voici quelques exemples d’acceptations inévitables :
+## Quelques exemples d’acceptations inévitables
 
 **Accepter le manque :** rien ni personne ne pourra jamais satisfaire entièrement notre désir. Étant habités par un désir infini qui ne rencontre que des réalités finies, nous ne pourrons jamais être comblés entièrement par des non-réalisations.
 

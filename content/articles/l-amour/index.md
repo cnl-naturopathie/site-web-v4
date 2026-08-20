@@ -21,7 +21,6 @@ Dans notre façon physique, **humaine** d’aimer, nous devons bien avoir cons
 <img class="aligncenter" alt="..." src="./images/image002.jpg" width="693" height="520">
 </p>
 
-
 ## L’amour agape
 
 C’est donner inconditionnellement, positivement, sans rien attendre en retour. C’est l’amour de surabondance, gratuit, l’amour pour rien, l’amour absolu. Il est **d’essence universelle**. Le signe pour savoir si nous le vivons, sera **d’aimer nos ennemis**... être capable d’aimer ceux qui ne nous aiment pas, d’aimer ceux qui nous méprisent. Là, nous touchons une réalité, qui n’est pas de ce monde, nous touchons l’universel en nous. L’ego s’ouvre au SOI, car l’ego est incapable d’aimer ses ennemis. Par conséquent, au stade actuel de notre évolution, sauf pour les saints et les sages, nous n’arrivons pas à atteindre cet amour universel, mais nous pouvons seulement **tendre vers**.

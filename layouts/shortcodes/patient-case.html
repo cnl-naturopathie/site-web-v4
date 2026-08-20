@@ -1,0 +1,17 @@
+{{- $images := split (.Get "images") "," -}}
+{{- $linkedImage := .Get "linked-image" -}}
+<div class="row patient-case">
+    {{- range $images }}
+        {{- $image := strings.TrimSpace . -}}
+        {{- $alt := replaceRE "\\.[^.]+$" "" $image -}}
+        <div class="col-xs-6 col-sm-3">
+            {{- if eq $image $linkedImage }}<a href="./images/{{ $image }}">{{ end -}}
+            <img class="img-responsive center-block" alt="{{ $alt }}" src="images/{{ $image }}" width="170" height="250">
+            {{- if eq $image $linkedImage }}</a>{{ end -}}
+        </div>
+    {{- end }}
+    <div class="col-xs-12 col-sm-6">
+        <h4>Descriptif</h4>
+        <pre class="patient-case__description">{{ .Inner | strings.TrimSpace | htmlEscape | safeHTML }}</pre>
+    </div>
+</div>

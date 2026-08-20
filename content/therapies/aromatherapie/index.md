@@ -21,31 +21,30 @@ Les huiles essentielles sont l’âme des plantes, et chacune possède sa propre
 
 Leurs propriétés sont globalement :
 
-  * antiseptiques, voire antibiotiques, c’est-à-dire qu’elles détruisent les micro-organismes, ou tout au moins elles inhibent leur croissance
-  * antivirale : l’expérience a clairement démontré leur effet positif sur les maladies virales, en particulier le zona, l’herpès et la grippe
-  * anti-inflammatoires
-  * cicatrisantes et régénératrices cellulaires
-  * mucolytiques : elles facilitent la liquéfaction des mucosités et des glaires
-  * expectorantes
-  * stimulantes, fortifiantes, excitantes
-  * antispasmodiques : elles agissent au niveau du système nerveux en aidant à éliminer les tensions, le stress et les spasmes
-  * tranquillisantes, sédatives, relaxantes
-  * antiallergiques (comme la camomille bleue, le bois de cèdre, etc.)
-  * toxiques : il ne faut pas oublier la toxicité de certaines huiles essentielles qui doivent être utilisées avec précaution (armoise, sarriette, thuya, etc.)
+-   antiseptiques, voire antibiotiques, c’est-à-dire qu’elles détruisent les micro-organismes, ou tout au moins elles inhibent leur croissance
+-   antivirale : l’expérience a clairement démontré leur effet positif sur les maladies virales, en particulier le zona, l’herpès et la grippe
+-   anti-inflammatoires
+-   cicatrisantes et régénératrices cellulaires
+-   mucolytiques : elles facilitent la liquéfaction des mucosités et des glaires
+-   expectorantes
+-   stimulantes, fortifiantes, excitantes
+-   antispasmodiques : elles agissent au niveau du système nerveux en aidant à éliminer les tensions, le stress et les spasmes
+-   tranquillisantes, sédatives, relaxantes
+-   antiallergiques (comme la camomille bleue, le bois de cèdre, etc.)
+-   toxiques : il ne faut pas oublier la toxicité de certaines huiles essentielles qui doivent être utilisées avec précaution (armoise, sarriette, thuya, etc.)
 
 Les huiles essentielles sont très rapidement absorbées par l’organisme, mais sont également très vite éliminées. Elles ont donc un effet rapide et de courte durée. Une utilisation à long terme est parfois déconseillée en raison des propriétés toxiques de certaines huiles.
 
 Dans un but thérapeutique, elles sont utilisées de diverses manières :
 
-  * par diffusion atmosphérique ou par inhalation
-  * par la peau, en application directe, en massage, en compresses, avec les bains
-  * par la bouche, en gouttes ou en gélules
-  * par les intestins sous forme de suppositoires
-  * par les voies génitales sous forme d’ovules
+-   par diffusion atmosphérique ou par inhalation
+-   par la peau, en application directe, en massage, en compresses, avec les bains
+-   par la bouche, en gouttes ou en gélules
+-   par les intestins sous forme de suppositoires
+-   par les voies génitales sous forme d’ovules
 
 Des critères de qualité sont indispensables et le mode de prescription est décisif pour une bonne efficacité de traitement.
 
 <p style="text-align: center;">
 <img class="aligncenter" alt="..." src="./images/aromatherapie.jpg" width="671" height="547">
 </p>
-

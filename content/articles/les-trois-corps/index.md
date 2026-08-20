@@ -49,4 +49,3 @@ Nous le nommerons l’interface psychospirituelle, développant l’imagination 
 Autrement dit, nous pouvons imaginer le psychisme comme un miroir à deux faces, l’une tournée vers le terrestre avec l’intelligence cérébrale rationnelle et l’autre vers le céleste avec l’intelligence du cœur, intuitive et aimante. Notre déséquilibre vient que nous connaissons et cultivons trop souvent la face inférieure, étant fascinés par la gestion et l’exploration matérielle de l’existence.
 
 Le déséquilibre n’implique pas de renoncer à l’ego, à l’intellect et à l’analyse, mais à combler le déficit du cerveau droit. Il en est de même pour ceux qui sont insuffisamment incarnés dans la matière, leur tâche sera de développer des activités d’enracinement.
-

@@ -35,11 +35,11 @@ Le Métal (automne) engendre l’Eau ; c’est l’intervention chimique H<sub>
 
 Un second cycle, logique quant aux éléments, porte le nom de cycle Ko ou de domination :
 
-  * Le Bois soumet la Terre en la recouvrant.
-  * La Terre soumet l’Eau en l’endiguant.
-  * L’Eau soumet le feu en l’éteignant.
-  * Le Métal soumet le Bois en le coupant.
-  * Ce cycle est important quand il s’applique à l’homme.
+-   Le Bois soumet la Terre en la recouvrant.
+-   La Terre soumet l’Eau en l’endiguant.
+-   L’Eau soumet le feu en l’éteignant.
+-   Le Métal soumet le Bois en le coupant.
+-   Ce cycle est important quand il s’applique à l’homme.
 
 Ignorée ou presque par notre médecine occidentale, la notion d’énergie est extrêmement importante et tient la première place dans la médecine chinoise. Cette énergie existe sous deux formes : l’énergie Yong et l’énergie Oé.
 

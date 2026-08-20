@@ -17,34 +17,13 @@ La logique du système MORA est celle de la réalité : tout est longueur d’o
 
 Il peut couvrir toutes les indications habituelles de la naturopathie, en particulier :
 
-<div class="columns2">
-  <ul>
-    <li>
-      L’existence d’une perturbation énergétique de certaines fonctions physiologiques ou organes.
-    </li>
-    <li>
-      L’identification et le traitement de l’ALLERGIE.
-    </li>
-    <li>
-      La détection de foyers infectieux (sinusite, granulome, etc.).
-    </li>
-    <li>
-      La détection de lésions ostéopathiques.
-    </li>
-    <li>
-      La détection et la levée des perturbations cicatricielles.
-    </li>
-    <li>
-      L’identification et le traitement des intoxications diverses : médicaments, suites de vaccinations, bijoux, aliments, additifs alimentaires, produits divers, etc.
-    </li>
-    <li>
-      Le dépistage des métaux et produits dentaires toxiques
-    </li>
-    <li>
-      La mesure des différences de potentiel en dentisterie
-    </li>
-    <li>
-      La sélection individuelle des remèdes en naturopathie et choix des dilutions homéopathiques correctes adaptées au patient
-    </li>
-  </ul>
-</div>
+-   L’existence d’une perturbation énergétique de certaines fonctions physiologiques ou organes.
+-   L’identification et le traitement de l’ALLERGIE.
+-   La détection de foyers infectieux (sinusite, granulome, etc.).
+-   La détection de lésions ostéopathiques.
+-   La détection et la levée des perturbations cicatricielles.
+-   L’identification et le traitement des intoxications diverses : médicaments, suites de vaccinations, bijoux, aliments, additifs alimentaires, produits divers, etc.
+-   Le dépistage des métaux et produits dentaires toxiques
+-   La mesure des différences de potentiel en dentisterie
+-   La sélection individuelle des remèdes en naturopathie et choix des dilutions homéopathiques correctes adaptées au patient
+{.columns2}
