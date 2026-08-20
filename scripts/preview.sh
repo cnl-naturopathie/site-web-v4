@@ -100,7 +100,7 @@ watch_generated_html() {
     done
 
     while true; do
-        npm run format:html
+        npm run --silent format:html >/dev/null
         touch "$marker"
 
         while [[ -z "$(find "$HUGO_DIR/public" -type f -name '*.html' -newer "$marker" -print -quit 2>/dev/null)" ]]; do
