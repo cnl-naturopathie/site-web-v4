@@ -10,7 +10,7 @@ infos:
         "Naturopathe avec diplôme fédéral<br>en médecine naturelle traditionnelle<br>européenne (MTE)",
         Nutritionniste ]
     tel: <i class="fa fa-mobile"></i> +41 78 822 48 38
-    detail: "Membre APTN • agréée par l’ASCA • RME, n° RCC X262462"
+    detail: "Agréée par l’ASCA • RME, n° RCC X262462"
     url: /therapeutes/fabienne-grossrieder/
 thumbnail:
     desc: Fabienne Grossrieder
@@ -25,7 +25,7 @@ Fabienne Grossrieder, naturopathe et nutritionniste diplômée, pratique depuis 
 
 La médecine complémentaire peut toujours aider, améliorer, voir permettre au patient de se débarrasser des symptômes, pour autant qu’il le décide et s’investisse dans sa prise en charge.
 
-Fabienne Grossrieder a eu la chance de travailler et collaborer avec Roland Carriot, naturopathe et ostéopathe de grande expérience et pionnier dans ces domaines en Suisse romande. Il s’était engagé et dévoué pour une reconnaissance légale de la profession de naturopathe et d’ostéopathe auprès des autorités cantonales et fédérales, au travers de l’APTN – *Association des Praticiens en Thérapeutiques Naturelles*. Malheureusement, son décès durant l’été 2008 a mis fin à cette belle collaboration, mais son esprit est toujours présent grâce au centre de naturopathie et tout le savoir qu’il a bien voulut partager et transmettre à bien des thérapeutes et patients.
+Fabienne Grossrieder a eu la chance de travailler et collaborer avec Roland Carriot, naturopathe et ostéopathe de grande expérience et pionnier dans ces domaines en Suisse romande. Il s’était engagé et dévoué pour une reconnaissance légale de la profession de naturopathe et d’ostéopathe auprès des autorités cantonales et fédérales, au travers de l’APTN – _Association des Praticiens en Thérapeutiques Naturelles_. Malheureusement, son décès durant l’été 2008 a mis fin à cette belle collaboration, mais son esprit est toujours présent grâce au centre de naturopathie et tout le savoir qu’il a bien voulut partager et transmettre à bien des thérapeutes et patients.
 
 ## Pratiques
 
