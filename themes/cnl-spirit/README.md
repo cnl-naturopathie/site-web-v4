@@ -1,6 +1,6 @@
 # Thème Hugo CNL Spirit
 
-Le thème CNL Spirit conserve la présentation du thème Spirit8 tout en séparant les données propres à chaque site.
+Le thème CNL Spirit a été développé à l’origine à partir du thème Spirit8. Il constitue désormais un thème propre au site du CNL.
 
 ## Dépendances attendues
 
