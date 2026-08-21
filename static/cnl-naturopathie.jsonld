@@ -70,7 +70,7 @@
     "makesOffer": [
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/aromatherapie/",
             "itemOffered": {
@@ -86,7 +86,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/bioresonnance-mora/",
             "itemOffered": {
@@ -102,7 +102,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/drainage/",
             "itemOffered": {
@@ -118,7 +118,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/endermologie/",
             "itemOffered": {
@@ -134,7 +134,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/homeopathie/",
             "itemOffered": {
@@ -150,7 +150,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/hygiene-vitale/",
             "itemOffered": {
@@ -166,7 +166,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/massage-therapeutique/",
             "itemOffered": {
@@ -182,7 +182,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/medecine-chinoise/",
             "itemOffered": {
@@ -198,7 +198,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/naturopathie/",
             "itemOffered": {
@@ -214,7 +214,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/phytotherapie/",
             "itemOffered": {
@@ -230,7 +230,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/reflexologie/",
             "itemOffered": {
@@ -246,7 +246,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/spagyrie/",
             "itemOffered": {
@@ -262,7 +262,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/sympathicotherapie/",
             "itemOffered": {
@@ -278,7 +278,7 @@
         },
         {
             "@type": "Offer",
-            "price": null,
+            "price": "132",
             "priceCurrency": "CHF",
             "url": "https://cnl-naturopathie.ch/therapies/veinologie/",
             "itemOffered": {
