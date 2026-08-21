@@ -34,13 +34,12 @@
 	<link rel="stylesheet" media="screen" href="/css/owl.carousel.css">
 	<link rel="stylesheet" media="screen" href="/css/owl.theme.css">
 
-	{{/* Réactiver l’intégration lorsque Fabienne aura complété le fichier JSON-LD.
-	{{ if .IsHome }}
+	{{ $jsonLDPath := "static/cnl-naturopathie.jsonld" }}
+	{{ if and .IsHome (os.FileExists $jsonLDPath) }}
 	<script type="application/ld+json">
-{{ os.ReadFile "static/cnl-naturopathie.jsonld" | safe.JS }}
+{{ os.ReadFile $jsonLDPath | safe.JS }}
 	</script>
 	{{ end }}
-	*/}}
 
 </head>
 <body>
