@@ -6,6 +6,7 @@ weight: 1
 thumbnail:
     desc: Sites d’intérêt
     image: feature.jpg
+draft: true
 ---
 
 ## EN CONSTRUCTION

@@ -5,6 +5,7 @@ date: 2013-12-14
 thumbnail:
     desc: EFT
     image: feature.jpg
+draft: true
 ---
 
 ## _Emotional Freedom Technique_

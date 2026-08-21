@@ -132,7 +132,3 @@ Et de façon générale :
 Sans oublier l’homéopathie et la phytothérapie.
 
 Comme vous pouvez le constater, **une approche naturopathique demande à être personnalisée**. Les remèdes naturels prescrits assurent le succès de cette démarche. Il est capital d’être bien guidé dans ce vaste domaine de la migraine et des maux de tête.
-
-&nbsp;
-
-© Copyright 2006, Roland Carriot, pour le Centre de Naturopathie – CNL

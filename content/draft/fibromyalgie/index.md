@@ -30,7 +30,6 @@ Depuis que l’existence de cette affection est mondialement reconnue, les méde
 
 Elles ont mal partout, à la tête, au dos, aux bras, aux jambes, aux articulations. Les activités de la vie courante, la marche, monter un escalier, faire son ménage, deviennent pénibles et la pratique sportive n’est quasiment pas possible. Le sommeil est de moins bonne qualité. Elles se sentent fatiguées dès le réveil et sans énergie tout au long de la journée. Elles peuvent se plaindre également de troubles de la mémoire et de difficultés de concentration.
 
-
 D’autres symptômes extrêmement variés sont parfois décrits, tels sécheresse oculaire, intolérance au froid, migraine, vertiges, spasmophilie, crampes nocturnes, rhume chronique, irritation du colon ou de la vessie, audition ou vue diminuée.
 
 À force de s’entendre répéter que tous leurs examens sont normaux, qu’elles sont juste stressées, que c’est dans leur tête, certaines se demandent si elles ne sont pas en train de devenir folles, et d’autres se persuadent qu’elles sont atteintes d’une maladie tellement grave que personne n’ose le leur avouer ! C’est ainsi que certaines patientes fibromyalgiques développeront une dépression nerveuse (dévalorisation et culpabilité) qui doit bien évidemment être considérée comme une conséquence et non comme une cause de fibromyalgie.
@@ -51,18 +50,18 @@ Une autre constatation intéressante est le fait que l’on observe de nombreux 
 
 ## Mes convictions personnelles
 
-_Je suis convaincu que la fibromyalgie est une de ces nouvelles maladies de notre temps, conséquence d’une **pollution environnementale** (surtout les métaux lourds), associée à un **dérèglement du système immunitaire** (maladie auto-immune) induit par la vaccination massive et l’abus d’antibiotiques. On peut encore ajouter à cela **les stress de la vie moderne** engendrant des perturbations psychologiques idéales pour ce genre de maladie._
+*Je suis convaincu que la fibromyalgie est une de ces nouvelles maladies de notre temps, conséquence d’une **pollution environnementale** (surtout les métaux lourds), associée à un **dérèglement du système immunitaire** (maladie auto-immune) induit par la vaccination massive et l’abus d’antibiotiques. On peut encore ajouter à cela **les stress de la vie moderne** engendrant des perturbations psychologiques idéales pour ce genre de maladie.*
 
 ## Le traitement de la fibromyalgie en médecine naturelle
 
 Il faut absolument traiter les différents aspects de la maladie :
 
-- La composante auto-immune par le **Moducare Sterinol**, immunomodulateur qui permet à la fois de stimuler l’immunité souhaitable (la défense de l’organisme) tout en diminuant l’immunité non souhaitable que l’on retrouve dans les maladies auto-immunes (les radicaux libres).
-- L’antioxydant **OPC** (oligomères de procyanidine), le plus efficace connu, produit naturel tiré de la peau rouge des graines d’arachide, de l’écorce de pin, des pépins de raisin et de l’airelle rouge. Son effet antiradicalaire de protection cellulaire dépasse de 18 à 20 fois celui de la vitamine C.
-- La **Chlorella**, extrait organique de la chlorelle, une microalgue, puissant capteur de métaux lourds, car non seulement elle capte ces toxines, mais elle favorise aussi leur élimination à l’extérieur de l’organisme, également les radicaux libres et autres substances radioactives.
-- La **spagyrie**, également comme traitement de fond.
-- **La phytothérapie de Beljanski.**
-- **L’ostéopathie** : Les traitements ostéopathiques généraux sont tous efficaces ; mais les résultats ne durent pas. Le corps se “tord” à nouveau sur le bassin, le rachis ou le crâne. Les récidives se font dans l’espace d’une semaine minimum à trois mois maximum.
+-   La composante auto-immune par le **Moducare Sterinol**, immunomodulateur qui permet à la fois de stimuler l’immunité souhaitable (la défense de l’organisme) tout en diminuant l’immunité non souhaitable que l’on retrouve dans les maladies auto-immunes (les radicaux libres).
+-   L’antioxydant **OPC** (oligomères de procyanidine), le plus efficace connu, produit naturel tiré de la peau rouge des graines d’arachide, de l’écorce de pin, des pépins de raisin et de l’airelle rouge. Son effet antiradicalaire de protection cellulaire dépasse de 18 à 20 fois celui de la vitamine C.
+-   La **Chlorella**, extrait organique de la chlorelle, une microalgue, puissant capteur de métaux lourds, car non seulement elle capte ces toxines, mais elle favorise aussi leur élimination à l’extérieur de l’organisme, également les radicaux libres et autres substances radioactives.
+-   La **spagyrie**, également comme traitement de fond.
+-   **La phytothérapie de Beljanski.**
+-   **L’ostéopathie** : Les traitements ostéopathiques généraux sont tous efficaces ; mais les résultats ne durent pas. Le corps se “tord” à nouveau sur le bassin, le rachis ou le crâne. Les récidives se font dans l’espace d’une semaine minimum à trois mois maximum.
 
 Car la fibromyalgie semble être une affection ostéopathique d’origine dentaire, le plus souvent. Le test de la cale interdentaire, simple et peu coûteux, peut aider à dépister une fibromyalgie ; mais il ne doit pas dispenser le thérapeute des examens habituels. Il s’agit de placer un morceau de carton ou de métal de quelques millimètres d’épaisseur entre la prémolaire et la première molaire, du côté opposé au côté douloureux. La patiente serre ensuite les dents sans dévier la mâchoire et l’on analyse de ressenti. Si les maux sont soulagés immédiatement, c’est sans doute qu’il y a une mauvaise occlusion des maxillaires. La gouttière interdentaire peut améliorer la posture, relever l’épaule trop basse, modifier l’appui sur le sol, etc.
 
@@ -86,11 +85,7 @@ La fibromyalgie peut donc se traiter par des moyens ostéopathiques nouveaux, **
 
 ### Les points de la face postérieure
 
-6. **Le point de l’occiput** à la base du crâne.
-7. **Le point de l’épaule** au milieu du muscle trapèze.
-8. **Le point de l’omoplate** au milieu de l’épine.
-9. **Le point du bassin** au niveau de la veine sacro-iliaque.
-
-&nbsp;
-
-© Copyright 2004, Roland Carriot, pour le Centre de Naturopathie – CNL
+1. **Le point de l’occiput** à la base du crâne.
+2. **Le point de l’épaule** au milieu du muscle trapèze.
+3. **Le point de l’omoplate** au milieu de l’épine.
+4. **Le point du bassin** au niveau de la veine sacro-iliaque.

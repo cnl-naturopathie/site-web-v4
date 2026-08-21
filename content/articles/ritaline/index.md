@@ -5,6 +5,7 @@ date: 2013-12-14
 thumbnail:
     desc: L’hyperactivité
     image: feature.jpg
+draft: true
 ---
 
 ## LA RITALINE
@@ -89,12 +90,6 @@ Et surtout, peut-être le plus important, la pollution par des ondes électromag
 **D’autres thérapies,** comme la chromatothérapie, l’ostéopathie, la sympathicathérapie, peuvent également s’avérer très efficaces pour le retour à une vie normale et à la santé.
 
 En médecine complémentaire, il y a donc des traitements naturels pour ces enfants, plutôt que de les soumettre à la dangereuse et toxique Ritaline.
-
-&nbsp;
-
-© Copyright 2008, Roland Carriot, pour le Centre de Naturopathie – CNL
-
-&nbsp;
 
 ## Lien externe
 

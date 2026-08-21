@@ -115,11 +115,3 @@ Il faut le dire, pour toutes les raisons évoquées, le seul lait qui convienne 
 Chez l’adulte, le solution est simple : plus jamais de lait tel quel, plus du tout de produits laitiers, ou le moins possible.
 
 Le lait une vacherie ? C’est indéniable, mais on peut ne pas persévérer dans l’erreur !
-
-Roland Carriot
-
-Naturopathe – Ostéopathe
-
-&nbsp;
-
-© Copyright janvier 2004, Roland Carriot, pour le Centre de Naturopathie – CNL

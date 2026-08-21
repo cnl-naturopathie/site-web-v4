@@ -49,11 +49,3 @@ Pour tenter d’améliorer la réponse immunitaire en se servant de remèdes sp�
 Enfin, nous ferons confiance à la phytothérapie, dont la tâche sera, d’une part, d’équilibrer les désordres affectifs latents ou mal exprimés et, d’autre part, de rendre la joie de vivre.
 
 Le traitement des pathologies vaccino-induites est une oeuvre de longue haleine (il est bien plus rapide de polluer un organisme), qui demande patience, prudence et sérénité ; mais rien n’est jamais acquis sans peine.
-
-&nbsp;
-
-© Copyright 2000, Roland Carriot, pour le Centre de Naturopathie – CNL
-
-Roland Carriot
-
-Naturopathe et ostéopathe diplômé

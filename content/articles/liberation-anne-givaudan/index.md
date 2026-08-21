@@ -5,7 +5,7 @@ date: 2013-12-14
 thumbnail:
     desc: Libération
     image: feature.jpg
-draft: false
+draft: true
 ---
 
 <h2>Le détachement</h2>

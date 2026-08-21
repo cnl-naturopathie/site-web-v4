@@ -77,7 +77,3 @@ Il est toujours préférable d’arrêter brutalement, d’un seul coup, quel qu
 Cesser de fumer apporte plus de **santé**, de **liberté**, de **temps** et d’**argent**.
 
 La Naturopathie œuvre pour la sauvegarde de la santé dans une volonté de prévention ; aussi encouragent-ils une **vie saine et surtout sans tabac**.
-
-&nbsp;
-
-© Copyright 2000, Roland Carriot, pour le Centre de Naturopathie – CNL
