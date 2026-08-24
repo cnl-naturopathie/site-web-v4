@@ -5,6 +5,7 @@ date: 2013-12-14
 thumbnail:
     desc: Les vaccins
     image: feature.jpg
+draft: true
 ---
 
 ## La phobie des microbes est ridicule
