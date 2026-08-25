@@ -87,7 +87,7 @@ Dans le doute, contactez votre assurance pour en avoir confirmation en indiquant
 
 Les conditions de remboursement dépendent de votre assurance complémentaire, de votre contrat et de la méthode pratiquée.
 
-## Que signifient ASCA et [RME] ? {#asca-et-[RME]}
+## Que signifient ASCA et [RME] ? {#asca-et-rme}
 
 **ASCA** signifie _Fondation suisse pour les médecines complémentaires_.
 
