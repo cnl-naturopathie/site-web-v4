@@ -17,3 +17,6 @@ main:
   - name: Contact
     url: "#tf-contact"
     weight: 60
+  - name: FAQ
+    url: /faq/
+    weight: 70
